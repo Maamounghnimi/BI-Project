@@ -1,0 +1,56 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<externalNode i18n.job.component.parameters="Param&#232;tres du composant :" i18n.job.properties="Propri&#233;t&#233;s" i18n.job.values="Valeurs" i18n.mapper.table.for="Mapper table for " i18n.mapper.table.properties="Mapper table Properties" i18n.job.name="Nom" i18n.tmap.matching.mode="Mode de correspondance" i18n.mapper.table.isminimized="est r&#233;duit(e)" i18n.tmap.isreject="isReject" i18n.tmap.isrejectinnnerjoin="isRejectInnerJoin" i18n.tmap.isinnerjoin="isInnerJoin" i18n.tmap.expressionfilter="expressionFilter" i18n.mapper.table.metadata.entries="Entr&#233;es d'une table de m&#233;tadonn&#233;es" i18n.job.type="Type" i18n.mapper.table.expression="Expression" i18n.tmap.isnullable="isNullable" i18n.tmap.constraint.entries="Contrainte d'entr&#233;es de table" name="tMap_3" preview="pictures/_UxZTULUqEe6DK4JnyNjNjA-tMap_3-PREVIEW.bmp">
+  <parameters>
+    <column name="Statistiques du tStatCatcher">false</column>
+    <column name="Les liens de mapping s'affichent comme :">AUTO</column>
+    <column name="Chemin d'acc&#232;s au r&#233;pertoire des donn&#233;es temporaires"></column>
+    <column name="Taille maximale de la m&#233;moire (nombre de lignes) :">2000000</column>
+    <column name="Ignorer les z&#233;ros en fin de champ pour le type BigDecimal">true</column>
+    <column name="Afficher les informations">false</column>
+    <column name="Commentaire"><![CDATA[]]></column>
+    <column name="Utiliser une r&#232;gle de validation existante">false</column>
+  </parameters>
+  <mapperTable type="input">
+    <table name="row4" matching-mode="UNIQUE_MATCH" lookup-mode="LOAD_ONCE" isMinimized="false" isReject="false" isRejectInnerJoin="false" isInnerJoin="false" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="false" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="Shippment_ID" type="Integer" expression="" isNullable="true"/>
+        <entry name="Shipping_Type" type="String" expression="" isNullable="true"/>
+        <entry name="Frequency_of_Purchases" type="String" expression="" isNullable="true"/>
+      </metadataTableEntries>
+    </table>
+    <table name="aaaaa" matching-mode="UNIQUE_MATCH" lookup-mode="LOAD_ONCE" isMinimized="false" isReject="false" isRejectInnerJoin="false" isInnerJoin="true" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="true" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="Customer_ID" type="Integer" expression="row4.Shippment_ID " isNullable="true"/>
+        <entry name="Age" type="Integer" expression="" isNullable="true"/>
+        <entry name="Gender" type="String" expression="" isNullable="true"/>
+        <entry name="Item_Purchased" type="String" expression="" isNullable="true"/>
+        <entry name="Category" type="String" expression="" isNullable="true"/>
+        <entry name="Size" type="String" expression="" isNullable="true"/>
+        <entry name="Color" type="String" expression="" isNullable="true"/>
+        <entry name="Season" type="String" expression="" isNullable="true"/>
+        <entry name="Location" type="String" expression="" isNullable="true"/>
+      </metadataTableEntries>
+    </table>
+  </mapperTable>
+  <mapperTable type="output">
+    <table name="ddddd" isMinimized="false" isReject="false" isRejectInnerJoin="false" isInnerJoin="false" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="false" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="Customer_ID" type="Integer" expression="aaaaa.Customer_ID " isNullable="true"/>
+        <entry name="Age" type="Integer" expression="aaaaa.Age " isNullable="true"/>
+        <entry name="Gender" type="String" expression="aaaaa.Gender " isNullable="true"/>
+        <entry name="Item_Purchased" type="String" expression="aaaaa.Item_Purchased " isNullable="true"/>
+        <entry name="Category" type="String" expression="aaaaa.Category " isNullable="true"/>
+        <entry name="Size" type="String" expression="aaaaa.Size " isNullable="true"/>
+        <entry name="Color" type="String" expression="aaaaa.Color " isNullable="true"/>
+        <entry name="Season" type="String" expression="aaaaa.Season " isNullable="true"/>
+        <entry name="Location" type="String" expression="aaaaa.Location " isNullable="true"/>
+        <entry name="Shipping_Type" type="String" expression="row4.Shipping_Type " isNullable="true"/>
+        <entry name="Frequency_of_Purchases" type="String" expression="row4.Frequency_of_Purchases " isNullable="true"/>
+      </metadataTableEntries>
+    </table>
+  </mapperTable>
+  <mapperTable type="var">
+    <table name="Var" isMinimized="true" isReject="false" isRejectInnerJoin="false" isInnerJoin="false" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="false" activateColumnNameFilter="false" columnNameFilter="null"/>
+  </mapperTable>
+</externalNode>

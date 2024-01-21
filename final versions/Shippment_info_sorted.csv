@@ -1,0 +1,3901 @@
+Shippment_ID;Shipping_Type;Frequency_of_Purchases
+1;2-Day Shipping;Fortnightly
+2;Next Day Air;Bi-Weekly
+3;Next Day Air;Fortnightly
+4;Express;Weekly
+5;Standard;Bi-Weekly
+6;Next Day Air;Quarterly
+7;Standard;Annually
+8;Store Pickup;Annually
+9;Standard;Bi-Weekly
+10;2-Day Shipping;Bi-Weekly
+11;2-Day Shipping;Bi-Weekly
+12;Store Pickup;Quarterly
+13;2-Day Shipping;Annually
+14;Free Shipping;Weekly
+15;Free Shipping;Weekly
+16;Next Day Air;Fortnightly
+17;Standard;Bi-Weekly
+18;Store Pickup;Weekly
+19;Express;Weekly
+20;Express;Weekly
+21;2-Day Shipping;Annually
+22;2-Day Shipping;Monthly
+23;Standard;Quarterly
+24;Store Pickup;Every 3 Months
+25;Standard;Quarterly
+26;Store Pickup;Every 3 Months
+27;Free Shipping;Every 3 Months
+28;Store Pickup;Every 3 Months
+29;2-Day Shipping;Quarterly
+30;Standard;Weekly
+31;Store Pickup;Annually
+32;Standard;Fortnightly
+33;Free Shipping;Weekly
+34;2-Day Shipping;Annually
+35;Standard;Bi-Weekly
+36;Next Day Air;Bi-Weekly
+37;2-Day Shipping;Fortnightly
+38;Standard;Fortnightly
+39;Express;Monthly
+40;Express;Weekly
+41;2-Day Shipping;Quarterly
+42;2-Day Shipping;Quarterly
+43;Standard;Annually
+44;Free Shipping;Fortnightly
+45;Standard;Quarterly
+46;Free Shipping;Quarterly
+47;2-Day Shipping;Annually
+48;Next Day Air;Fortnightly
+49;Standard;Weekly
+50;Standard;Quarterly
+51;Express;Every 3 Months
+52;Standard;Quarterly
+53;Next Day Air;Annually
+54;2-Day Shipping;Monthly
+55;Express;Annually
+56;2-Day Shipping;Quarterly
+57;Next Day Air;Annually
+58;Standard;Fortnightly
+59;Store Pickup;Monthly
+60;Next Day Air;Every 3 Months
+61;Express;Every 3 Months
+62;Next Day Air;Monthly
+63;Free Shipping;Quarterly
+64;Express;Quarterly
+65;2-Day Shipping;Fortnightly
+66;2-Day Shipping;Fortnightly
+67;Free Shipping;Fortnightly
+68;Standard;Weekly
+69;2-Day Shipping;Bi-Weekly
+70;Free Shipping;Monthly
+71;Store Pickup;Fortnightly
+72;Standard;Quarterly
+73;Next Day Air;Bi-Weekly
+74;Store Pickup;Every 3 Months
+75;Free Shipping;Weekly
+76;Standard;Monthly
+77;Next Day Air;Fortnightly
+78;Standard;Quarterly
+79;Store Pickup;Annually
+80;Standard;Monthly
+81;Store Pickup;Monthly
+82;Store Pickup;Quarterly
+83;Standard;Monthly
+84;Free Shipping;Weekly
+85;Free Shipping;Bi-Weekly
+86;Express;Every 3 Months
+87;2-Day Shipping;Fortnightly
+88;Next Day Air;Monthly
+89;2-Day Shipping;Every 3 Months
+90;Express;Annually
+91;Next Day Air;Bi-Weekly
+92;Store Pickup;Fortnightly
+93;Express;Fortnightly
+94;Next Day Air;Bi-Weekly
+95;Express;Quarterly
+96;Free Shipping;Fortnightly
+97;Next Day Air;Monthly
+98;2-Day Shipping;Weekly
+99;Standard;Annually
+100;Free Shipping;Quarterly
+101;2-Day Shipping;Quarterly
+102;2-Day Shipping;Fortnightly
+103;Store Pickup;Annually
+104;Express;Monthly
+105;Free Shipping;Annually
+106;Express;Weekly
+107;Free Shipping;Fortnightly
+108;Standard;Fortnightly
+109;Next Day Air;Every 3 Months
+110;Free Shipping;Annually
+111;Next Day Air;Bi-Weekly
+112;Express;Every 3 Months
+113;Store Pickup;Quarterly
+114;Express;Every 3 Months
+115;Express;Annually
+116;Express;Annually
+117;Standard;Fortnightly
+118;2-Day Shipping;Bi-Weekly
+119;Next Day Air;Annually
+120;Next Day Air;Every 3 Months
+121;Free Shipping;Bi-Weekly
+122;Express;Monthly
+123;Free Shipping;Bi-Weekly
+124;Standard;Monthly
+125;Store Pickup;Annually
+126;Free Shipping;Quarterly
+127;Free Shipping;Quarterly
+128;2-Day Shipping;Fortnightly
+129;2-Day Shipping;Fortnightly
+130;Store Pickup;Annually
+131;Next Day Air;Bi-Weekly
+132;Express;Quarterly
+133;Free Shipping;Quarterly
+134;Standard;Weekly
+135;Express;Fortnightly
+136;Free Shipping;Quarterly
+137;Standard;Annually
+138;Next Day Air;Weekly
+139;2-Day Shipping;Quarterly
+140;Store Pickup;Fortnightly
+141;2-Day Shipping;Bi-Weekly
+142;Free Shipping;Every 3 Months
+143;Express;Fortnightly
+144;Free Shipping;Weekly
+145;2-Day Shipping;Weekly
+146;Standard;Every 3 Months
+147;Free Shipping;Bi-Weekly
+148;Express;Annually
+149;2-Day Shipping;Annually
+150;Free Shipping;Fortnightly
+151;Store Pickup;Quarterly
+152;2-Day Shipping;Annually
+153;2-Day Shipping;Weekly
+154;Next Day Air;Every 3 Months
+155;Express;Fortnightly
+156;Next Day Air;Monthly
+157;2-Day Shipping;Annually
+158;Standard;Fortnightly
+159;Store Pickup;Every 3 Months
+160;Express;Quarterly
+161;2-Day Shipping;Annually
+162;Next Day Air;Every 3 Months
+163;Express;Weekly
+164;Free Shipping;Weekly
+165;2-Day Shipping;Weekly
+166;Free Shipping;Annually
+167;2-Day Shipping;Weekly
+168;2-Day Shipping;Fortnightly
+169;Express;Quarterly
+170;Express;Monthly
+171;Express;Every 3 Months
+172;Standard;Bi-Weekly
+173;Next Day Air;Fortnightly
+174;Next Day Air;Every 3 Months
+175;Express;Every 3 Months
+176;Store Pickup;Weekly
+177;Express;Bi-Weekly
+178;Standard;Every 3 Months
+179;Store Pickup;Weekly
+180;Free Shipping;Weekly
+181;Free Shipping;Every 3 Months
+182;Express;Every 3 Months
+183;Standard;Every 3 Months
+184;Express;Monthly
+185;2-Day Shipping;Quarterly
+186;Store Pickup;Quarterly
+187;Free Shipping;Monthly
+188;Store Pickup;Fortnightly
+189;Standard;Monthly
+190;Free Shipping;Every 3 Months
+191;Express;Fortnightly
+192;Express;Bi-Weekly
+193;Free Shipping;Quarterly
+194;Standard;Weekly
+195;Free Shipping;Weekly
+196;2-Day Shipping;Bi-Weekly
+197;Store Pickup;Monthly
+198;Store Pickup;Quarterly
+199;Store Pickup;Quarterly
+200;Free Shipping;Quarterly
+201;2-Day Shipping;Every 3 Months
+202;Store Pickup;Weekly
+203;Store Pickup;Monthly
+204;Standard;Fortnightly
+205;Standard;Fortnightly
+206;Store Pickup;Monthly
+207;Standard;Bi-Weekly
+208;Express;Annually
+209;Free Shipping;Every 3 Months
+210;2-Day Shipping;Bi-Weekly
+211;Free Shipping;Weekly
+212;Next Day Air;Monthly
+213;Express;Quarterly
+214;Store Pickup;Fortnightly
+215;Free Shipping;Bi-Weekly
+216;2-Day Shipping;Monthly
+217;Store Pickup;Annually
+218;Next Day Air;Quarterly
+219;Free Shipping;Quarterly
+220;Next Day Air;Every 3 Months
+221;2-Day Shipping;Weekly
+222;Standard;Weekly
+223;Standard;Every 3 Months
+224;Store Pickup;Every 3 Months
+225;Free Shipping;Bi-Weekly
+226;Store Pickup;Weekly
+227;2-Day Shipping;Fortnightly
+228;Store Pickup;Every 3 Months
+229;Free Shipping;Annually
+230;Standard;Monthly
+231;Standard;Quarterly
+232;Free Shipping;Annually
+233;Standard;Every 3 Months
+234;Standard;Quarterly
+235;2-Day Shipping;Every 3 Months
+236;Express;Fortnightly
+237;Next Day Air;Monthly
+238;Free Shipping;Quarterly
+239;Store Pickup;Monthly
+240;Free Shipping;Annually
+241;Express;Fortnightly
+242;Standard;Monthly
+243;2-Day Shipping;Quarterly
+244;Store Pickup;Annually
+245;Next Day Air;Fortnightly
+246;Next Day Air;Fortnightly
+247;Standard;Annually
+248;Store Pickup;Annually
+249;Free Shipping;Quarterly
+250;2-Day Shipping;Monthly
+251;Store Pickup;Fortnightly
+252;Free Shipping;Annually
+253;Standard;Quarterly
+254;Store Pickup;Weekly
+255;Standard;Every 3 Months
+256;Free Shipping;Weekly
+257;Next Day Air;Quarterly
+258;Standard;Annually
+259;Free Shipping;Annually
+260;Free Shipping;Monthly
+261;Standard;Every 3 Months
+262;Standard;Weekly
+263;Store Pickup;Quarterly
+264;Free Shipping;Quarterly
+265;Free Shipping;Weekly
+266;Express;Weekly
+267;Next Day Air;Weekly
+268;Express;Fortnightly
+269;2-Day Shipping;Weekly
+270;2-Day Shipping;Annually
+271;Express;Bi-Weekly
+272;Free Shipping;Annually
+273;Free Shipping;Monthly
+274;2-Day Shipping;Quarterly
+275;Free Shipping;Monthly
+276;Next Day Air;Monthly
+277;Store Pickup;Weekly
+278;Express;Weekly
+279;Free Shipping;Annually
+280;Express;Quarterly
+281;Standard;Weekly
+282;Standard;Every 3 Months
+283;Standard;Weekly
+284;Express;Every 3 Months
+285;Free Shipping;Weekly
+286;Free Shipping;Quarterly
+287;Standard;Fortnightly
+288;Standard;Quarterly
+289;Express;Every 3 Months
+290;Free Shipping;Every 3 Months
+291;2-Day Shipping;Weekly
+292;Next Day Air;Fortnightly
+293;Next Day Air;Fortnightly
+294;Standard;Annually
+295;Standard;Fortnightly
+296;2-Day Shipping;Weekly
+297;2-Day Shipping;Annually
+298;Store Pickup;Quarterly
+299;Next Day Air;Annually
+300;Store Pickup;Every 3 Months
+301;Standard;Monthly
+302;Free Shipping;Monthly
+303;2-Day Shipping;Monthly
+304;Express;Quarterly
+305;Express;Every 3 Months
+306;Express;Quarterly
+307;Free Shipping;Bi-Weekly
+308;Standard;Fortnightly
+309;Store Pickup;Annually
+310;Standard;Quarterly
+311;Next Day Air;Monthly
+312;Express;Annually
+313;Standard;Quarterly
+314;Standard;Fortnightly
+315;Express;Annually
+316;Standard;Bi-Weekly
+317;Standard;Every 3 Months
+318;2-Day Shipping;Weekly
+319;Store Pickup;Every 3 Months
+320;Free Shipping;Every 3 Months
+321;Standard;Weekly
+322;Next Day Air;Weekly
+323;Standard;Monthly
+324;Standard;Bi-Weekly
+325;Free Shipping;Bi-Weekly
+326;Standard;Quarterly
+327;2-Day Shipping;Annually
+328;Free Shipping;Every 3 Months
+329;Store Pickup;Quarterly
+330;2-Day Shipping;Bi-Weekly
+331;Free Shipping;Annually
+332;Standard;Bi-Weekly
+333;2-Day Shipping;Fortnightly
+334;Standard;Weekly
+335;2-Day Shipping;Annually
+336;Standard;Fortnightly
+337;Next Day Air;Every 3 Months
+338;Next Day Air;Every 3 Months
+339;Express;Weekly
+340;Next Day Air;Bi-Weekly
+341;Standard;Annually
+342;Standard;Weekly
+343;Next Day Air;Quarterly
+344;Store Pickup;Weekly
+345;Free Shipping;Monthly
+346;2-Day Shipping;Annually
+347;Express;Bi-Weekly
+348;Standard;Annually
+349;Next Day Air;Annually
+350;Store Pickup;Fortnightly
+351;Store Pickup;Quarterly
+352;Express;Every 3 Months
+353;Store Pickup;Monthly
+354;Express;Quarterly
+355;Standard;Weekly
+356;2-Day Shipping;Bi-Weekly
+357;2-Day Shipping;Fortnightly
+358;Free Shipping;Weekly
+359;Next Day Air;Every 3 Months
+360;Standard;Quarterly
+361;Express;Every 3 Months
+362;Standard;Annually
+363;Store Pickup;Every 3 Months
+364;Standard;Annually
+365;Standard;Monthly
+366;2-Day Shipping;Annually
+367;Next Day Air;Every 3 Months
+368;Next Day Air;Weekly
+369;Store Pickup;Fortnightly
+370;Express;Quarterly
+371;Next Day Air;Annually
+372;Store Pickup;Bi-Weekly
+373;Free Shipping;Bi-Weekly
+374;Free Shipping;Quarterly
+375;Standard;Monthly
+376;2-Day Shipping;Annually
+377;Standard;Every 3 Months
+378;Next Day Air;Monthly
+379;Next Day Air;Fortnightly
+380;Next Day Air;Every 3 Months
+381;Next Day Air;Weekly
+382;Next Day Air;Monthly
+383;Next Day Air;Weekly
+384;2-Day Shipping;Annually
+385;Standard;Quarterly
+386;Standard;Annually
+387;Express;Weekly
+388;Next Day Air;Bi-Weekly
+389;Next Day Air;Quarterly
+390;Store Pickup;Annually
+391;2-Day Shipping;Weekly
+392;Store Pickup;Monthly
+393;Store Pickup;Annually
+394;Store Pickup;Every 3 Months
+395;Next Day Air;Quarterly
+396;Next Day Air;Monthly
+397;2-Day Shipping;Annually
+398;2-Day Shipping;Quarterly
+399;Standard;Quarterly
+400;Next Day Air;Quarterly
+401;Store Pickup;Bi-Weekly
+402;Express;Weekly
+403;Standard;Fortnightly
+404;Free Shipping;Every 3 Months
+405;Store Pickup;Annually
+406;Store Pickup;Annually
+407;Free Shipping;Quarterly
+408;Standard;Weekly
+409;2-Day Shipping;Every 3 Months
+410;Standard;Quarterly
+411;Standard;Quarterly
+412;2-Day Shipping;Fortnightly
+413;2-Day Shipping;Bi-Weekly
+414;Standard;Fortnightly
+415;2-Day Shipping;Monthly
+416;Free Shipping;Every 3 Months
+417;Express;Every 3 Months
+418;2-Day Shipping;Bi-Weekly
+419;Express;Every 3 Months
+420;Express;Quarterly
+421;Express;Annually
+422;Store Pickup;Annually
+423;Free Shipping;Weekly
+424;2-Day Shipping;Weekly
+425;Store Pickup;Monthly
+426;Standard;Quarterly
+427;Next Day Air;Fortnightly
+428;Next Day Air;Weekly
+429;Standard;Weekly
+430;Store Pickup;Monthly
+431;Express;Quarterly
+432;Next Day Air;Weekly
+433;Store Pickup;Bi-Weekly
+434;Next Day Air;Quarterly
+435;Next Day Air;Fortnightly
+436;Free Shipping;Quarterly
+437;Standard;Fortnightly
+438;Next Day Air;Quarterly
+439;Store Pickup;Bi-Weekly
+440;2-Day Shipping;Monthly
+441;2-Day Shipping;Weekly
+442;Store Pickup;Fortnightly
+443;Express;Monthly
+444;Next Day Air;Monthly
+445;Standard;Annually
+446;Standard;Fortnightly
+447;Store Pickup;Monthly
+448;Free Shipping;Bi-Weekly
+449;Next Day Air;Monthly
+450;Standard;Weekly
+451;Next Day Air;Quarterly
+452;2-Day Shipping;Annually
+453;Express;Monthly
+454;Store Pickup;Quarterly
+455;Standard;Weekly
+456;Store Pickup;Annually
+457;Next Day Air;Monthly
+458;Next Day Air;Every 3 Months
+459;Next Day Air;Monthly
+460;Free Shipping;Weekly
+461;Store Pickup;Fortnightly
+462;Express;Bi-Weekly
+463;Standard;Bi-Weekly
+464;Standard;Annually
+465;Next Day Air;Annually
+466;Next Day Air;Monthly
+467;Express;Annually
+468;2-Day Shipping;Bi-Weekly
+469;Standard;Monthly
+470;Next Day Air;Every 3 Months
+471;Express;Fortnightly
+472;2-Day Shipping;Quarterly
+473;Store Pickup;Bi-Weekly
+474;Next Day Air;Bi-Weekly
+475;Express;Fortnightly
+476;Standard;Quarterly
+477;Standard;Fortnightly
+478;Free Shipping;Weekly
+479;Standard;Quarterly
+480;2-Day Shipping;Annually
+481;Next Day Air;Bi-Weekly
+482;2-Day Shipping;Bi-Weekly
+483;2-Day Shipping;Weekly
+484;Store Pickup;Every 3 Months
+485;Store Pickup;Monthly
+486;Express;Bi-Weekly
+487;Standard;Monthly
+488;Standard;Monthly
+489;Next Day Air;Quarterly
+490;Next Day Air;Annually
+491;Store Pickup;Weekly
+492;2-Day Shipping;Every 3 Months
+493;Free Shipping;Every 3 Months
+494;2-Day Shipping;Every 3 Months
+495;Express;Bi-Weekly
+496;Store Pickup;Bi-Weekly
+497;Free Shipping;Every 3 Months
+498;2-Day Shipping;Monthly
+499;Free Shipping;Weekly
+500;Store Pickup;Weekly
+501;Standard;Weekly
+502;2-Day Shipping;Weekly
+503;Free Shipping;Fortnightly
+504;Express;Every 3 Months
+505;Free Shipping;Quarterly
+506;Express;Annually
+507;Store Pickup;Quarterly
+508;Express;Monthly
+509;Store Pickup;Annually
+510;Express;Weekly
+511;Standard;Every 3 Months
+512;Store Pickup;Weekly
+513;Next Day Air;Every 3 Months
+514;Express;Annually
+515;2-Day Shipping;Every 3 Months
+516;2-Day Shipping;Weekly
+517;Free Shipping;Fortnightly
+518;Next Day Air;Weekly
+519;Standard;Bi-Weekly
+520;Standard;Weekly
+521;2-Day Shipping;Fortnightly
+522;Standard;Monthly
+523;Next Day Air;Every 3 Months
+524;2-Day Shipping;Monthly
+525;Next Day Air;Fortnightly
+526;Standard;Annually
+527;Express;Bi-Weekly
+528;Standard;Weekly
+529;Store Pickup;Annually
+530;Next Day Air;Monthly
+531;Next Day Air;Every 3 Months
+532;Standard;Annually
+533;2-Day Shipping;Every 3 Months
+534;Standard;Quarterly
+535;Standard;Quarterly
+536;Store Pickup;Bi-Weekly
+537;Express;Every 3 Months
+538;Store Pickup;Quarterly
+539;Free Shipping;Quarterly
+540;Express;Weekly
+541;2-Day Shipping;Quarterly
+542;Store Pickup;Annually
+543;Store Pickup;Quarterly
+544;Express;Every 3 Months
+545;Next Day Air;Bi-Weekly
+546;Next Day Air;Weekly
+547;Standard;Annually
+548;Express;Weekly
+549;2-Day Shipping;Quarterly
+550;2-Day Shipping;Annually
+551;Free Shipping;Annually
+552;Store Pickup;Monthly
+553;Standard;Bi-Weekly
+554;Next Day Air;Bi-Weekly
+555;Express;Quarterly
+556;Store Pickup;Bi-Weekly
+557;Free Shipping;Weekly
+558;2-Day Shipping;Fortnightly
+559;Free Shipping;Fortnightly
+560;Standard;Monthly
+561;Standard;Fortnightly
+562;Next Day Air;Annually
+563;Store Pickup;Monthly
+564;Express;Bi-Weekly
+565;Next Day Air;Weekly
+566;Next Day Air;Weekly
+567;Standard;Annually
+568;Free Shipping;Weekly
+569;Free Shipping;Bi-Weekly
+570;Free Shipping;Weekly
+571;Next Day Air;Quarterly
+572;Free Shipping;Weekly
+573;2-Day Shipping;Fortnightly
+574;Standard;Quarterly
+575;Express;Quarterly
+576;Standard;Annually
+577;Store Pickup;Bi-Weekly
+578;Express;Weekly
+579;2-Day Shipping;Fortnightly
+580;Next Day Air;Weekly
+581;Standard;Monthly
+582;Standard;Annually
+583;2-Day Shipping;Weekly
+584;2-Day Shipping;Bi-Weekly
+585;Next Day Air;Annually
+586;Store Pickup;Fortnightly
+587;Store Pickup;Fortnightly
+588;Store Pickup;Fortnightly
+589;Store Pickup;Monthly
+590;Standard;Fortnightly
+591;Next Day Air;Bi-Weekly
+592;Standard;Bi-Weekly
+593;Free Shipping;Fortnightly
+594;Express;Fortnightly
+595;Store Pickup;Bi-Weekly
+596;2-Day Shipping;Monthly
+597;Express;Quarterly
+598;Next Day Air;Fortnightly
+599;Store Pickup;Weekly
+600;2-Day Shipping;Quarterly
+601;Free Shipping;Annually
+602;Express;Every 3 Months
+603;2-Day Shipping;Annually
+604;2-Day Shipping;Bi-Weekly
+605;Free Shipping;Quarterly
+606;Express;Bi-Weekly
+607;Store Pickup;Annually
+608;Free Shipping;Every 3 Months
+609;Express;Weekly
+610;Store Pickup;Fortnightly
+611;Express;Annually
+612;2-Day Shipping;Fortnightly
+613;Store Pickup;Weekly
+614;Express;Every 3 Months
+615;Express;Fortnightly
+616;Express;Bi-Weekly
+617;Store Pickup;Annually
+618;Standard;Quarterly
+619;Next Day Air;Every 3 Months
+620;Free Shipping;Annually
+621;Express;Every 3 Months
+622;Store Pickup;Every 3 Months
+623;Free Shipping;Weekly
+624;Free Shipping;Weekly
+625;Express;Quarterly
+626;Store Pickup;Annually
+627;Free Shipping;Bi-Weekly
+628;Express;Fortnightly
+629;Free Shipping;Quarterly
+630;Store Pickup;Every 3 Months
+631;2-Day Shipping;Annually
+632;Express;Annually
+633;Store Pickup;Weekly
+634;Standard;Monthly
+635;Standard;Every 3 Months
+636;2-Day Shipping;Bi-Weekly
+637;Standard;Annually
+638;Next Day Air;Quarterly
+639;Express;Annually
+640;Next Day Air;Monthly
+641;Standard;Weekly
+642;2-Day Shipping;Bi-Weekly
+643;Free Shipping;Fortnightly
+644;Store Pickup;Every 3 Months
+645;Free Shipping;Fortnightly
+646;2-Day Shipping;Bi-Weekly
+647;Express;Bi-Weekly
+648;2-Day Shipping;Fortnightly
+649;2-Day Shipping;Bi-Weekly
+650;Free Shipping;Monthly
+651;Store Pickup;Weekly
+652;2-Day Shipping;Monthly
+653;Store Pickup;Bi-Weekly
+654;Free Shipping;Fortnightly
+655;Free Shipping;Quarterly
+656;Store Pickup;Weekly
+657;Store Pickup;Monthly
+658;Express;Quarterly
+659;Standard;Quarterly
+660;2-Day Shipping;Monthly
+661;Free Shipping;Quarterly
+662;Express;Weekly
+663;Store Pickup;Bi-Weekly
+664;Next Day Air;Fortnightly
+665;Standard;Weekly
+666;Standard;Annually
+667;Store Pickup;Every 3 Months
+668;Standard;Every 3 Months
+669;2-Day Shipping;Quarterly
+670;Express;Monthly
+671;Standard;Weekly
+672;Express;Fortnightly
+673;Store Pickup;Bi-Weekly
+674;Standard;Bi-Weekly
+675;Next Day Air;Bi-Weekly
+676;Store Pickup;Monthly
+677;2-Day Shipping;Annually
+678;Store Pickup;Bi-Weekly
+679;2-Day Shipping;Bi-Weekly
+680;Store Pickup;Quarterly
+681;Express;Quarterly
+682;2-Day Shipping;Monthly
+683;Next Day Air;Bi-Weekly
+684;Free Shipping;Annually
+685;Express;Quarterly
+686;Store Pickup;Monthly
+687;Free Shipping;Annually
+688;Free Shipping;Annually
+689;Express;Quarterly
+690;Next Day Air;Fortnightly
+691;Free Shipping;Bi-Weekly
+692;Free Shipping;Fortnightly
+693;Express;Every 3 Months
+694;Express;Quarterly
+695;Free Shipping;Bi-Weekly
+696;Standard;Bi-Weekly
+697;Express;Weekly
+698;Store Pickup;Weekly
+699;Express;Bi-Weekly
+700;Free Shipping;Annually
+701;2-Day Shipping;Every 3 Months
+702;2-Day Shipping;Weekly
+703;Express;Fortnightly
+704;Free Shipping;Every 3 Months
+705;Store Pickup;Bi-Weekly
+706;Standard;Weekly
+707;Next Day Air;Quarterly
+708;Next Day Air;Monthly
+709;2-Day Shipping;Fortnightly
+710;Free Shipping;Bi-Weekly
+711;2-Day Shipping;Quarterly
+712;2-Day Shipping;Quarterly
+713;Standard;Annually
+714;Store Pickup;Weekly
+715;Next Day Air;Every 3 Months
+716;Express;Monthly
+717;Next Day Air;Every 3 Months
+718;Store Pickup;Bi-Weekly
+719;Free Shipping;Monthly
+720;Next Day Air;Weekly
+721;Free Shipping;Bi-Weekly
+722;2-Day Shipping;Monthly
+723;Standard;Quarterly
+724;Standard;Monthly
+725;Free Shipping;Every 3 Months
+726;Store Pickup;Fortnightly
+727;Store Pickup;Fortnightly
+728;Standard;Fortnightly
+729;Store Pickup;Every 3 Months
+730;Free Shipping;Fortnightly
+731;Next Day Air;Every 3 Months
+732;Next Day Air;Annually
+733;Standard;Fortnightly
+734;2-Day Shipping;Weekly
+735;Store Pickup;Annually
+736;Free Shipping;Quarterly
+737;Free Shipping;Weekly
+738;Free Shipping;Monthly
+739;Next Day Air;Weekly
+740;2-Day Shipping;Every 3 Months
+741;2-Day Shipping;Annually
+742;2-Day Shipping;Fortnightly
+743;2-Day Shipping;Quarterly
+744;Express;Every 3 Months
+745;Next Day Air;Every 3 Months
+746;Next Day Air;Monthly
+747;Free Shipping;Annually
+748;Store Pickup;Every 3 Months
+749;2-Day Shipping;Quarterly
+750;Free Shipping;Every 3 Months
+751;Standard;Fortnightly
+752;Standard;Every 3 Months
+753;Express;Quarterly
+754;Next Day Air;Every 3 Months
+755;Free Shipping;Bi-Weekly
+756;Next Day Air;Monthly
+757;Next Day Air;Quarterly
+758;Store Pickup;Bi-Weekly
+759;Next Day Air;Every 3 Months
+760;2-Day Shipping;Bi-Weekly
+761;Store Pickup;Quarterly
+762;Express;Bi-Weekly
+763;Store Pickup;Fortnightly
+764;Express;Annually
+765;Store Pickup;Quarterly
+766;Free Shipping;Monthly
+767;Free Shipping;Every 3 Months
+768;2-Day Shipping;Fortnightly
+769;Free Shipping;Annually
+770;Standard;Monthly
+771;Free Shipping;Every 3 Months
+772;Store Pickup;Monthly
+773;Express;Bi-Weekly
+774;Store Pickup;Every 3 Months
+775;Store Pickup;Fortnightly
+776;2-Day Shipping;Quarterly
+777;Standard;Bi-Weekly
+778;Free Shipping;Weekly
+779;Express;Monthly
+780;2-Day Shipping;Every 3 Months
+781;Store Pickup;Every 3 Months
+782;Free Shipping;Quarterly
+783;Express;Weekly
+784;Express;Bi-Weekly
+785;Next Day Air;Every 3 Months
+786;Next Day Air;Quarterly
+787;Free Shipping;Weekly
+788;2-Day Shipping;Quarterly
+789;Next Day Air;Monthly
+790;Standard;Monthly
+791;Next Day Air;Annually
+792;Next Day Air;Weekly
+793;Next Day Air;Fortnightly
+794;Free Shipping;Every 3 Months
+795;2-Day Shipping;Bi-Weekly
+796;Store Pickup;Annually
+797;Standard;Every 3 Months
+798;Next Day Air;Every 3 Months
+799;Standard;Bi-Weekly
+800;Free Shipping;Bi-Weekly
+801;Standard;Quarterly
+802;2-Day Shipping;Every 3 Months
+803;2-Day Shipping;Quarterly
+804;Store Pickup;Fortnightly
+805;2-Day Shipping;Monthly
+806;Free Shipping;Quarterly
+807;Free Shipping;Weekly
+808;2-Day Shipping;Fortnightly
+809;Next Day Air;Monthly
+810;Express;Annually
+811;Free Shipping;Monthly
+812;Express;Monthly
+813;2-Day Shipping;Annually
+814;Free Shipping;Weekly
+815;Standard;Annually
+816;Free Shipping;Quarterly
+817;Next Day Air;Annually
+818;Next Day Air;Annually
+819;Standard;Monthly
+820;2-Day Shipping;Bi-Weekly
+821;Standard;Monthly
+822;Standard;Every 3 Months
+823;Store Pickup;Monthly
+824;Express;Fortnightly
+825;Express;Annually
+826;Next Day Air;Quarterly
+827;Next Day Air;Annually
+828;2-Day Shipping;Every 3 Months
+829;Store Pickup;Bi-Weekly
+830;Express;Annually
+831;Store Pickup;Every 3 Months
+832;Free Shipping;Every 3 Months
+833;Next Day Air;Fortnightly
+834;Free Shipping;Every 3 Months
+835;Standard;Every 3 Months
+836;2-Day Shipping;Bi-Weekly
+837;Express;Monthly
+838;Express;Annually
+839;Store Pickup;Quarterly
+840;2-Day Shipping;Fortnightly
+841;Next Day Air;Fortnightly
+842;Express;Monthly
+843;Next Day Air;Weekly
+844;Express;Quarterly
+845;2-Day Shipping;Annually
+846;Next Day Air;Monthly
+847;Free Shipping;Monthly
+848;Standard;Monthly
+849;Next Day Air;Every 3 Months
+850;Next Day Air;Fortnightly
+851;Next Day Air;Every 3 Months
+852;Free Shipping;Annually
+853;2-Day Shipping;Annually
+854;Next Day Air;Fortnightly
+855;Next Day Air;Annually
+856;Next Day Air;Every 3 Months
+857;Store Pickup;Every 3 Months
+858;Next Day Air;Annually
+859;Standard;Quarterly
+860;Next Day Air;Fortnightly
+861;2-Day Shipping;Weekly
+862;2-Day Shipping;Fortnightly
+863;Next Day Air;Quarterly
+864;2-Day Shipping;Bi-Weekly
+865;2-Day Shipping;Quarterly
+866;Next Day Air;Fortnightly
+867;Free Shipping;Quarterly
+868;Store Pickup;Every 3 Months
+869;Store Pickup;Weekly
+870;Standard;Monthly
+871;Store Pickup;Fortnightly
+872;Free Shipping;Bi-Weekly
+873;Next Day Air;Every 3 Months
+874;Express;Bi-Weekly
+875;Express;Weekly
+876;Express;Monthly
+877;Store Pickup;Quarterly
+878;Standard;Bi-Weekly
+879;Standard;Annually
+880;Next Day Air;Monthly
+881;Express;Weekly
+882;Store Pickup;Fortnightly
+883;2-Day Shipping;Annually
+884;Next Day Air;Quarterly
+885;Express;Weekly
+886;Express;Annually
+887;2-Day Shipping;Bi-Weekly
+888;Store Pickup;Quarterly
+889;2-Day Shipping;Weekly
+890;Express;Bi-Weekly
+891;2-Day Shipping;Fortnightly
+892;2-Day Shipping;Quarterly
+893;2-Day Shipping;Quarterly
+894;Express;Quarterly
+895;Store Pickup;Every 3 Months
+896;Store Pickup;Monthly
+897;Standard;Bi-Weekly
+898;Express;Bi-Weekly
+899;Standard;Annually
+900;Express;Weekly
+901;Express;Every 3 Months
+902;Standard;Quarterly
+903;Standard;Quarterly
+904;Next Day Air;Monthly
+905;2-Day Shipping;Monthly
+906;Store Pickup;Monthly
+907;Free Shipping;Annually
+908;Free Shipping;Every 3 Months
+909;Standard;Annually
+910;Standard;Every 3 Months
+911;Free Shipping;Quarterly
+912;Free Shipping;Weekly
+913;Standard;Every 3 Months
+914;Express;Monthly
+915;Free Shipping;Monthly
+916;Free Shipping;Every 3 Months
+917;Free Shipping;Bi-Weekly
+918;Standard;Weekly
+919;Store Pickup;Fortnightly
+920;Standard;Annually
+921;Free Shipping;Bi-Weekly
+922;Express;Quarterly
+923;Store Pickup;Bi-Weekly
+924;Standard;Quarterly
+925;Store Pickup;Weekly
+926;Express;Bi-Weekly
+927;Next Day Air;Annually
+928;Standard;Every 3 Months
+929;2-Day Shipping;Annually
+930;Free Shipping;Monthly
+931;Next Day Air;Bi-Weekly
+932;Free Shipping;Monthly
+933;Next Day Air;Quarterly
+934;2-Day Shipping;Monthly
+935;Express;Monthly
+936;Standard;Bi-Weekly
+937;Free Shipping;Quarterly
+938;Free Shipping;Every 3 Months
+939;Standard;Annually
+940;Standard;Monthly
+941;Standard;Quarterly
+942;Next Day Air;Fortnightly
+943;Free Shipping;Monthly
+944;Standard;Monthly
+945;Next Day Air;Fortnightly
+946;Free Shipping;Every 3 Months
+947;Free Shipping;Annually
+948;Store Pickup;Quarterly
+949;Standard;Annually
+950;Store Pickup;Fortnightly
+951;Free Shipping;Quarterly
+952;Standard;Weekly
+953;2-Day Shipping;Fortnightly
+954;Store Pickup;Fortnightly
+955;2-Day Shipping;Annually
+956;Express;Annually
+957;Standard;Annually
+958;Free Shipping;Every 3 Months
+959;Express;Fortnightly
+960;Free Shipping;Annually
+961;Next Day Air;Monthly
+962;Free Shipping;Quarterly
+963;Next Day Air;Bi-Weekly
+964;Next Day Air;Bi-Weekly
+965;Free Shipping;Bi-Weekly
+966;2-Day Shipping;Monthly
+967;Store Pickup;Quarterly
+968;Next Day Air;Fortnightly
+969;Free Shipping;Weekly
+970;Next Day Air;Weekly
+971;Store Pickup;Bi-Weekly
+972;Standard;Every 3 Months
+973;Store Pickup;Quarterly
+974;Next Day Air;Bi-Weekly
+975;Standard;Quarterly
+976;Free Shipping;Quarterly
+977;Express;Bi-Weekly
+978;Free Shipping;Monthly
+979;Express;Annually
+980;Standard;Fortnightly
+981;Express;Monthly
+982;Next Day Air;Weekly
+983;Next Day Air;Weekly
+984;Next Day Air;Bi-Weekly
+985;Standard;Monthly
+986;Express;Fortnightly
+987;2-Day Shipping;Fortnightly
+988;Next Day Air;Bi-Weekly
+989;Store Pickup;Every 3 Months
+990;Next Day Air;Fortnightly
+991;Next Day Air;Weekly
+992;Free Shipping;Every 3 Months
+993;Next Day Air;Quarterly
+994;Store Pickup;Weekly
+995;Store Pickup;Quarterly
+996;Express;Fortnightly
+997;Free Shipping;Monthly
+998;2-Day Shipping;Bi-Weekly
+999;2-Day Shipping;Weekly
+1000;Express;Annually
+1001;Free Shipping;Every 3 Months
+1002;2-Day Shipping;Every 3 Months
+1003;Express;Weekly
+1004;Next Day Air;Every 3 Months
+1005;Standard;Weekly
+1006;Standard;Monthly
+1007;Free Shipping;Bi-Weekly
+1008;Express;Weekly
+1009;Express;Bi-Weekly
+1010;Store Pickup;Quarterly
+1011;Express;Bi-Weekly
+1012;2-Day Shipping;Monthly
+1013;Standard;Bi-Weekly
+1014;Next Day Air;Bi-Weekly
+1015;Express;Quarterly
+1016;Next Day Air;Every 3 Months
+1017;2-Day Shipping;Quarterly
+1018;Next Day Air;Every 3 Months
+1019;Express;Bi-Weekly
+1020;Express;Quarterly
+1021;Standard;Annually
+1022;2-Day Shipping;Every 3 Months
+1023;Store Pickup;Monthly
+1024;Standard;Quarterly
+1025;Free Shipping;Quarterly
+1026;Store Pickup;Annually
+1027;Express;Annually
+1028;Express;Fortnightly
+1029;Next Day Air;Bi-Weekly
+1030;Express;Every 3 Months
+1031;Free Shipping;Weekly
+1032;Express;Weekly
+1033;Next Day Air;Fortnightly
+1034;2-Day Shipping;Monthly
+1035;Next Day Air;Weekly
+1036;Store Pickup;Every 3 Months
+1037;2-Day Shipping;Every 3 Months
+1038;Next Day Air;Monthly
+1039;Free Shipping;Weekly
+1040;Standard;Fortnightly
+1041;Standard;Annually
+1042;2-Day Shipping;Weekly
+1043;Standard;Bi-Weekly
+1044;Standard;Bi-Weekly
+1045;Standard;Fortnightly
+1046;Express;Annually
+1047;Standard;Annually
+1048;Express;Bi-Weekly
+1049;2-Day Shipping;Every 3 Months
+1050;Standard;Bi-Weekly
+1051;Next Day Air;Bi-Weekly
+1052;Free Shipping;Bi-Weekly
+1053;2-Day Shipping;Fortnightly
+1054;Express;Weekly
+1055;2-Day Shipping;Quarterly
+1056;Next Day Air;Fortnightly
+1057;Store Pickup;Annually
+1058;Next Day Air;Bi-Weekly
+1059;Standard;Every 3 Months
+1060;Free Shipping;Weekly
+1061;Express;Bi-Weekly
+1062;Free Shipping;Monthly
+1063;Express;Quarterly
+1064;Next Day Air;Every 3 Months
+1065;Next Day Air;Weekly
+1066;Standard;Fortnightly
+1067;2-Day Shipping;Monthly
+1068;2-Day Shipping;Quarterly
+1069;Standard;Monthly
+1070;2-Day Shipping;Every 3 Months
+1071;Express;Weekly
+1072;Next Day Air;Quarterly
+1073;Express;Every 3 Months
+1074;2-Day Shipping;Monthly
+1075;Standard;Monthly
+1076;Store Pickup;Bi-Weekly
+1077;2-Day Shipping;Quarterly
+1078;Next Day Air;Weekly
+1079;2-Day Shipping;Fortnightly
+1080;Next Day Air;Every 3 Months
+1081;Store Pickup;Every 3 Months
+1082;2-Day Shipping;Every 3 Months
+1083;Standard;Every 3 Months
+1084;Store Pickup;Fortnightly
+1085;Next Day Air;Monthly
+1086;Next Day Air;Monthly
+1087;Free Shipping;Every 3 Months
+1088;Free Shipping;Bi-Weekly
+1089;2-Day Shipping;Annually
+1090;Next Day Air;Annually
+1091;Store Pickup;Quarterly
+1092;Standard;Bi-Weekly
+1093;2-Day Shipping;Bi-Weekly
+1094;Standard;Monthly
+1095;2-Day Shipping;Annually
+1096;Standard;Weekly
+1097;Store Pickup;Fortnightly
+1098;Standard;Fortnightly
+1099;Store Pickup;Bi-Weekly
+1100;Store Pickup;Monthly
+1101;2-Day Shipping;Weekly
+1102;2-Day Shipping;Weekly
+1103;Store Pickup;Monthly
+1104;Express;Annually
+1105;Free Shipping;Monthly
+1106;Next Day Air;Every 3 Months
+1107;2-Day Shipping;Every 3 Months
+1108;Standard;Bi-Weekly
+1109;Express;Monthly
+1110;Store Pickup;Quarterly
+1111;Next Day Air;Weekly
+1112;Store Pickup;Bi-Weekly
+1113;Express;Fortnightly
+1114;Standard;Monthly
+1115;Standard;Every 3 Months
+1116;Free Shipping;Weekly
+1117;Express;Quarterly
+1118;Express;Weekly
+1119;Standard;Monthly
+1120;Free Shipping;Annually
+1121;Store Pickup;Quarterly
+1122;Store Pickup;Monthly
+1123;Express;Weekly
+1124;Standard;Weekly
+1125;Standard;Weekly
+1126;Standard;Annually
+1127;Next Day Air;Monthly
+1128;Standard;Fortnightly
+1129;2-Day Shipping;Monthly
+1130;Free Shipping;Quarterly
+1131;Free Shipping;Every 3 Months
+1132;Standard;Quarterly
+1133;Standard;Quarterly
+1134;Store Pickup;Monthly
+1135;Store Pickup;Quarterly
+1136;Free Shipping;Bi-Weekly
+1137;Free Shipping;Annually
+1138;Next Day Air;Annually
+1139;Store Pickup;Weekly
+1140;Free Shipping;Annually
+1141;Express;Fortnightly
+1142;Store Pickup;Bi-Weekly
+1143;Express;Weekly
+1144;Next Day Air;Quarterly
+1145;Free Shipping;Monthly
+1146;Free Shipping;Every 3 Months
+1147;Standard;Fortnightly
+1148;2-Day Shipping;Bi-Weekly
+1149;Store Pickup;Every 3 Months
+1150;2-Day Shipping;Monthly
+1151;Free Shipping;Weekly
+1152;Next Day Air;Quarterly
+1153;Express;Monthly
+1154;Store Pickup;Monthly
+1155;Express;Every 3 Months
+1156;Free Shipping;Fortnightly
+1157;Free Shipping;Monthly
+1158;Store Pickup;Fortnightly
+1159;Express;Fortnightly
+1160;Express;Quarterly
+1161;Standard;Quarterly
+1162;Store Pickup;Fortnightly
+1163;2-Day Shipping;Bi-Weekly
+1164;Express;Quarterly
+1165;Next Day Air;Quarterly
+1166;Next Day Air;Every 3 Months
+1167;Standard;Every 3 Months
+1168;Store Pickup;Every 3 Months
+1169;Next Day Air;Bi-Weekly
+1170;Standard;Annually
+1171;2-Day Shipping;Bi-Weekly
+1172;Store Pickup;Annually
+1173;2-Day Shipping;Bi-Weekly
+1174;Free Shipping;Quarterly
+1175;Free Shipping;Every 3 Months
+1176;Standard;Weekly
+1177;2-Day Shipping;Bi-Weekly
+1178;Express;Monthly
+1179;Store Pickup;Quarterly
+1180;Express;Weekly
+1181;Express;Annually
+1182;Express;Bi-Weekly
+1183;Free Shipping;Weekly
+1184;Express;Fortnightly
+1185;Standard;Weekly
+1186;Standard;Quarterly
+1187;2-Day Shipping;Bi-Weekly
+1188;Store Pickup;Annually
+1189;Free Shipping;Annually
+1190;Free Shipping;Annually
+1191;Express;Quarterly
+1192;Next Day Air;Annually
+1193;Standard;Bi-Weekly
+1194;Store Pickup;Bi-Weekly
+1195;Store Pickup;Bi-Weekly
+1196;Free Shipping;Annually
+1197;2-Day Shipping;Quarterly
+1198;Next Day Air;Every 3 Months
+1199;Standard;Bi-Weekly
+1200;Next Day Air;Fortnightly
+1201;Express;Annually
+1202;Store Pickup;Annually
+1203;Express;Quarterly
+1204;Express;Annually
+1205;Express;Monthly
+1206;Next Day Air;Every 3 Months
+1207;Store Pickup;Every 3 Months
+1208;2-Day Shipping;Bi-Weekly
+1209;Express;Weekly
+1210;2-Day Shipping;Bi-Weekly
+1211;Next Day Air;Every 3 Months
+1212;Standard;Quarterly
+1213;2-Day Shipping;Every 3 Months
+1214;2-Day Shipping;Annually
+1215;Store Pickup;Weekly
+1216;2-Day Shipping;Bi-Weekly
+1217;Next Day Air;Quarterly
+1218;Store Pickup;Fortnightly
+1219;Next Day Air;Fortnightly
+1220;Next Day Air;Weekly
+1221;Standard;Fortnightly
+1222;2-Day Shipping;Every 3 Months
+1223;Standard;Fortnightly
+1224;Express;Every 3 Months
+1225;Standard;Fortnightly
+1226;Free Shipping;Annually
+1227;Express;Weekly
+1228;2-Day Shipping;Weekly
+1229;Store Pickup;Weekly
+1230;Express;Annually
+1231;Next Day Air;Monthly
+1232;Free Shipping;Quarterly
+1233;Next Day Air;Bi-Weekly
+1234;Standard;Annually
+1235;2-Day Shipping;Bi-Weekly
+1236;Free Shipping;Every 3 Months
+1237;2-Day Shipping;Monthly
+1238;Standard;Quarterly
+1239;Free Shipping;Monthly
+1240;Free Shipping;Weekly
+1241;Express;Weekly
+1242;2-Day Shipping;Bi-Weekly
+1243;Standard;Monthly
+1244;Next Day Air;Annually
+1245;2-Day Shipping;Annually
+1246;Next Day Air;Fortnightly
+1247;Standard;Bi-Weekly
+1248;Store Pickup;Weekly
+1249;Store Pickup;Annually
+1250;Next Day Air;Monthly
+1251;Express;Monthly
+1252;Express;Annually
+1253;2-Day Shipping;Every 3 Months
+1254;Store Pickup;Monthly
+1255;Free Shipping;Bi-Weekly
+1256;Standard;Monthly
+1257;Store Pickup;Every 3 Months
+1258;Store Pickup;Bi-Weekly
+1259;Store Pickup;Every 3 Months
+1260;Standard;Annually
+1261;2-Day Shipping;Monthly
+1262;2-Day Shipping;Fortnightly
+1263;Store Pickup;Fortnightly
+1264;Store Pickup;Every 3 Months
+1265;Store Pickup;Monthly
+1266;Standard;Every 3 Months
+1267;2-Day Shipping;Fortnightly
+1268;2-Day Shipping;Fortnightly
+1269;Standard;Bi-Weekly
+1270;Store Pickup;Quarterly
+1271;Next Day Air;Quarterly
+1272;Express;Every 3 Months
+1273;Free Shipping;Every 3 Months
+1274;Free Shipping;Annually
+1275;Next Day Air;Fortnightly
+1276;Free Shipping;Bi-Weekly
+1277;Standard;Annually
+1278;2-Day Shipping;Bi-Weekly
+1279;Free Shipping;Weekly
+1280;2-Day Shipping;Every 3 Months
+1281;Express;Bi-Weekly
+1282;Next Day Air;Every 3 Months
+1283;Standard;Weekly
+1284;2-Day Shipping;Every 3 Months
+1285;Store Pickup;Monthly
+1286;Free Shipping;Weekly
+1287;Free Shipping;Bi-Weekly
+1288;Next Day Air;Annually
+1289;2-Day Shipping;Weekly
+1290;Next Day Air;Annually
+1291;Store Pickup;Bi-Weekly
+1292;2-Day Shipping;Annually
+1293;Standard;Weekly
+1294;Express;Annually
+1295;Store Pickup;Monthly
+1296;2-Day Shipping;Quarterly
+1297;Express;Annually
+1298;Free Shipping;Annually
+1299;Next Day Air;Fortnightly
+1300;Next Day Air;Monthly
+1301;Standard;Bi-Weekly
+1302;Express;Fortnightly
+1303;Store Pickup;Weekly
+1304;2-Day Shipping;Every 3 Months
+1305;Store Pickup;Bi-Weekly
+1306;Next Day Air;Annually
+1307;Free Shipping;Quarterly
+1308;Express;Every 3 Months
+1309;Next Day Air;Bi-Weekly
+1310;2-Day Shipping;Every 3 Months
+1311;Store Pickup;Weekly
+1312;Standard;Bi-Weekly
+1313;Store Pickup;Annually
+1314;2-Day Shipping;Bi-Weekly
+1315;Next Day Air;Bi-Weekly
+1316;Express;Monthly
+1317;2-Day Shipping;Every 3 Months
+1318;Free Shipping;Fortnightly
+1319;Store Pickup;Weekly
+1320;Express;Monthly
+1321;Express;Every 3 Months
+1322;Next Day Air;Every 3 Months
+1323;Express;Monthly
+1324;2-Day Shipping;Annually
+1325;Standard;Annually
+1326;Next Day Air;Bi-Weekly
+1327;Standard;Monthly
+1328;Express;Bi-Weekly
+1329;Next Day Air;Annually
+1330;Store Pickup;Annually
+1331;2-Day Shipping;Every 3 Months
+1332;Free Shipping;Weekly
+1333;Next Day Air;Annually
+1334;Express;Every 3 Months
+1335;Free Shipping;Every 3 Months
+1336;Standard;Annually
+1337;Express;Monthly
+1338;Express;Bi-Weekly
+1339;Express;Annually
+1340;2-Day Shipping;Fortnightly
+1341;Express;Annually
+1342;Next Day Air;Quarterly
+1343;Free Shipping;Monthly
+1344;Next Day Air;Quarterly
+1345;Next Day Air;Quarterly
+1346;2-Day Shipping;Fortnightly
+1347;Express;Every 3 Months
+1348;Standard;Monthly
+1349;Free Shipping;Fortnightly
+1350;Free Shipping;Annually
+1351;Free Shipping;Bi-Weekly
+1352;Express;Fortnightly
+1353;Free Shipping;Annually
+1354;Express;Quarterly
+1355;2-Day Shipping;Annually
+1356;2-Day Shipping;Quarterly
+1357;Express;Monthly
+1358;Store Pickup;Bi-Weekly
+1359;Free Shipping;Every 3 Months
+1360;Store Pickup;Fortnightly
+1361;Free Shipping;Fortnightly
+1362;2-Day Shipping;Quarterly
+1363;Free Shipping;Every 3 Months
+1364;Store Pickup;Fortnightly
+1365;Express;Monthly
+1366;Store Pickup;Fortnightly
+1367;Next Day Air;Quarterly
+1368;2-Day Shipping;Annually
+1369;2-Day Shipping;Every 3 Months
+1370;Store Pickup;Every 3 Months
+1371;Free Shipping;Monthly
+1372;Standard;Fortnightly
+1373;Express;Quarterly
+1374;2-Day Shipping;Quarterly
+1375;Free Shipping;Monthly
+1376;Store Pickup;Fortnightly
+1377;Store Pickup;Monthly
+1378;Free Shipping;Annually
+1379;Store Pickup;Every 3 Months
+1380;Store Pickup;Annually
+1381;Next Day Air;Monthly
+1382;Standard;Annually
+1383;Next Day Air;Quarterly
+1384;Standard;Monthly
+1385;Next Day Air;Every 3 Months
+1386;Next Day Air;Fortnightly
+1387;Express;Fortnightly
+1388;Express;Fortnightly
+1389;Next Day Air;Fortnightly
+1390;Standard;Annually
+1391;Express;Bi-Weekly
+1392;Standard;Every 3 Months
+1393;Standard;Monthly
+1394;Store Pickup;Fortnightly
+1395;Store Pickup;Annually
+1396;Next Day Air;Bi-Weekly
+1397;Express;Weekly
+1398;Standard;Weekly
+1399;Next Day Air;Annually
+1400;Store Pickup;Every 3 Months
+1401;Express;Monthly
+1402;Next Day Air;Monthly
+1403;2-Day Shipping;Quarterly
+1404;Standard;Fortnightly
+1405;Store Pickup;Every 3 Months
+1406;Express;Annually
+1407;2-Day Shipping;Weekly
+1408;2-Day Shipping;Weekly
+1409;Express;Bi-Weekly
+1410;Standard;Annually
+1411;Store Pickup;Annually
+1412;Next Day Air;Quarterly
+1413;2-Day Shipping;Monthly
+1414;Express;Monthly
+1415;Express;Bi-Weekly
+1416;2-Day Shipping;Quarterly
+1417;2-Day Shipping;Quarterly
+1418;Express;Quarterly
+1419;Express;Monthly
+1420;Express;Weekly
+1421;Next Day Air;Bi-Weekly
+1422;2-Day Shipping;Fortnightly
+1423;Free Shipping;Annually
+1424;2-Day Shipping;Bi-Weekly
+1425;Free Shipping;Quarterly
+1426;Store Pickup;Bi-Weekly
+1427;Store Pickup;Every 3 Months
+1428;Express;Bi-Weekly
+1429;Express;Bi-Weekly
+1430;Express;Quarterly
+1431;Store Pickup;Monthly
+1432;Free Shipping;Annually
+1433;2-Day Shipping;Bi-Weekly
+1434;Store Pickup;Annually
+1435;Store Pickup;Every 3 Months
+1436;Next Day Air;Every 3 Months
+1437;Standard;Weekly
+1438;Store Pickup;Monthly
+1439;Standard;Weekly
+1440;Standard;Every 3 Months
+1441;2-Day Shipping;Annually
+1442;Express;Every 3 Months
+1443;Store Pickup;Bi-Weekly
+1444;Store Pickup;Weekly
+1445;Standard;Fortnightly
+1446;Free Shipping;Weekly
+1447;2-Day Shipping;Fortnightly
+1448;2-Day Shipping;Weekly
+1449;Free Shipping;Annually
+1450;Next Day Air;Weekly
+1451;Express;Monthly
+1452;Store Pickup;Bi-Weekly
+1453;Free Shipping;Bi-Weekly
+1454;Free Shipping;Bi-Weekly
+1455;Store Pickup;Quarterly
+1456;2-Day Shipping;Fortnightly
+1457;Store Pickup;Annually
+1458;Store Pickup;Every 3 Months
+1459;Store Pickup;Fortnightly
+1460;Store Pickup;Fortnightly
+1461;Free Shipping;Annually
+1462;Free Shipping;Annually
+1463;Free Shipping;Annually
+1464;Next Day Air;Bi-Weekly
+1465;Store Pickup;Quarterly
+1466;Standard;Fortnightly
+1467;Store Pickup;Quarterly
+1468;Free Shipping;Bi-Weekly
+1469;Store Pickup;Bi-Weekly
+1470;2-Day Shipping;Weekly
+1471;Next Day Air;Every 3 Months
+1472;Standard;Quarterly
+1473;Free Shipping;Annually
+1474;Free Shipping;Monthly
+1475;Express;Bi-Weekly
+1476;Express;Bi-Weekly
+1477;Free Shipping;Annually
+1478;Express;Fortnightly
+1479;Free Shipping;Quarterly
+1480;2-Day Shipping;Bi-Weekly
+1481;Next Day Air;Weekly
+1482;Next Day Air;Fortnightly
+1483;Express;Fortnightly
+1484;Express;Fortnightly
+1485;Next Day Air;Monthly
+1486;Standard;Quarterly
+1487;Free Shipping;Annually
+1488;Next Day Air;Quarterly
+1489;Express;Annually
+1490;Store Pickup;Bi-Weekly
+1491;Next Day Air;Monthly
+1492;Express;Quarterly
+1493;Free Shipping;Fortnightly
+1494;Free Shipping;Monthly
+1495;Free Shipping;Bi-Weekly
+1496;2-Day Shipping;Quarterly
+1497;Express;Quarterly
+1498;Store Pickup;Weekly
+1499;Free Shipping;Every 3 Months
+1500;Free Shipping;Annually
+1501;Express;Fortnightly
+1502;Free Shipping;Every 3 Months
+1503;Express;Annually
+1504;Store Pickup;Every 3 Months
+1505;Express;Bi-Weekly
+1506;Free Shipping;Weekly
+1507;Standard;Weekly
+1508;2-Day Shipping;Bi-Weekly
+1509;2-Day Shipping;Every 3 Months
+1510;Store Pickup;Bi-Weekly
+1511;Next Day Air;Weekly
+1512;Free Shipping;Bi-Weekly
+1513;Standard;Annually
+1514;2-Day Shipping;Fortnightly
+1515;Next Day Air;Quarterly
+1516;Store Pickup;Fortnightly
+1517;Free Shipping;Fortnightly
+1518;Express;Quarterly
+1519;2-Day Shipping;Quarterly
+1520;2-Day Shipping;Monthly
+1521;Store Pickup;Every 3 Months
+1522;Standard;Fortnightly
+1523;Store Pickup;Fortnightly
+1524;Next Day Air;Every 3 Months
+1525;Next Day Air;Every 3 Months
+1526;Store Pickup;Quarterly
+1527;Standard;Every 3 Months
+1528;Standard;Every 3 Months
+1529;Store Pickup;Monthly
+1530;Free Shipping;Annually
+1531;2-Day Shipping;Every 3 Months
+1532;Free Shipping;Quarterly
+1533;Standard;Quarterly
+1534;2-Day Shipping;Annually
+1535;Store Pickup;Weekly
+1536;Express;Weekly
+1537;Express;Weekly
+1538;2-Day Shipping;Quarterly
+1539;Free Shipping;Bi-Weekly
+1540;Free Shipping;Monthly
+1541;Store Pickup;Monthly
+1542;Free Shipping;Weekly
+1543;Store Pickup;Quarterly
+1544;Express;Fortnightly
+1545;Store Pickup;Bi-Weekly
+1546;Express;Every 3 Months
+1547;Free Shipping;Quarterly
+1548;Free Shipping;Weekly
+1549;Next Day Air;Bi-Weekly
+1550;Store Pickup;Every 3 Months
+1551;Express;Monthly
+1552;Standard;Weekly
+1553;Store Pickup;Fortnightly
+1554;Standard;Annually
+1555;Standard;Annually
+1556;Store Pickup;Monthly
+1557;Store Pickup;Monthly
+1558;Next Day Air;Annually
+1559;Free Shipping;Quarterly
+1560;Standard;Fortnightly
+1561;Standard;Bi-Weekly
+1562;Free Shipping;Monthly
+1563;Next Day Air;Every 3 Months
+1564;2-Day Shipping;Weekly
+1565;Standard;Every 3 Months
+1566;Store Pickup;Monthly
+1567;2-Day Shipping;Monthly
+1568;Next Day Air;Bi-Weekly
+1569;Standard;Fortnightly
+1570;Free Shipping;Weekly
+1571;Next Day Air;Monthly
+1572;Free Shipping;Fortnightly
+1573;Free Shipping;Annually
+1574;Express;Bi-Weekly
+1575;Standard;Every 3 Months
+1576;Next Day Air;Monthly
+1577;Store Pickup;Every 3 Months
+1578;Free Shipping;Weekly
+1579;Express;Bi-Weekly
+1580;Next Day Air;Every 3 Months
+1581;Standard;Bi-Weekly
+1582;Standard;Every 3 Months
+1583;Next Day Air;Weekly
+1584;2-Day Shipping;Annually
+1585;Free Shipping;Every 3 Months
+1586;2-Day Shipping;Quarterly
+1587;2-Day Shipping;Quarterly
+1588;2-Day Shipping;Monthly
+1589;Store Pickup;Fortnightly
+1590;Express;Bi-Weekly
+1591;Next Day Air;Weekly
+1592;Free Shipping;Weekly
+1593;Next Day Air;Weekly
+1594;Express;Every 3 Months
+1595;Standard;Fortnightly
+1596;Express;Weekly
+1597;2-Day Shipping;Every 3 Months
+1598;Standard;Every 3 Months
+1599;Store Pickup;Bi-Weekly
+1600;Express;Annually
+1601;Express;Bi-Weekly
+1602;Standard;Quarterly
+1603;Store Pickup;Bi-Weekly
+1604;Next Day Air;Every 3 Months
+1605;Standard;Monthly
+1606;Free Shipping;Monthly
+1607;Express;Monthly
+1608;Free Shipping;Weekly
+1609;Standard;Bi-Weekly
+1610;Standard;Every 3 Months
+1611;Standard;Fortnightly
+1612;Store Pickup;Quarterly
+1613;Express;Annually
+1614;Free Shipping;Quarterly
+1615;Express;Fortnightly
+1616;Store Pickup;Bi-Weekly
+1617;Store Pickup;Every 3 Months
+1618;Express;Monthly
+1619;Free Shipping;Quarterly
+1620;Next Day Air;Quarterly
+1621;Next Day Air;Weekly
+1622;Free Shipping;Fortnightly
+1623;Store Pickup;Weekly
+1624;Express;Bi-Weekly
+1625;2-Day Shipping;Weekly
+1626;Store Pickup;Quarterly
+1627;Free Shipping;Quarterly
+1628;Next Day Air;Every 3 Months
+1629;Express;Bi-Weekly
+1630;Store Pickup;Annually
+1631;Free Shipping;Weekly
+1632;Store Pickup;Bi-Weekly
+1633;Standard;Quarterly
+1634;Standard;Bi-Weekly
+1635;Express;Every 3 Months
+1636;Store Pickup;Quarterly
+1637;Standard;Quarterly
+1638;Store Pickup;Annually
+1639;2-Day Shipping;Bi-Weekly
+1640;2-Day Shipping;Quarterly
+1641;Next Day Air;Bi-Weekly
+1642;Store Pickup;Fortnightly
+1643;Store Pickup;Fortnightly
+1644;Free Shipping;Weekly
+1645;Next Day Air;Every 3 Months
+1646;Express;Fortnightly
+1647;Store Pickup;Annually
+1648;2-Day Shipping;Quarterly
+1649;Free Shipping;Quarterly
+1650;Express;Weekly
+1651;Standard;Every 3 Months
+1652;Express;Bi-Weekly
+1653;Free Shipping;Bi-Weekly
+1654;Express;Fortnightly
+1655;2-Day Shipping;Annually
+1656;2-Day Shipping;Fortnightly
+1657;Next Day Air;Fortnightly
+1658;Next Day Air;Every 3 Months
+1659;Next Day Air;Quarterly
+1660;Store Pickup;Bi-Weekly
+1661;Standard;Bi-Weekly
+1662;Next Day Air;Quarterly
+1663;Store Pickup;Fortnightly
+1664;Express;Monthly
+1665;Next Day Air;Annually
+1666;Store Pickup;Bi-Weekly
+1667;Express;Every 3 Months
+1668;2-Day Shipping;Quarterly
+1669;Store Pickup;Annually
+1670;Free Shipping;Weekly
+1671;2-Day Shipping;Fortnightly
+1672;Standard;Fortnightly
+1673;Free Shipping;Quarterly
+1674;2-Day Shipping;Fortnightly
+1675;Store Pickup;Weekly
+1676;Express;Fortnightly
+1677;Standard;Weekly
+1678;Free Shipping;Fortnightly
+1679;Free Shipping;Fortnightly
+1680;Store Pickup;Bi-Weekly
+1681;Standard;Fortnightly
+1682;2-Day Shipping;Every 3 Months
+1683;Store Pickup;Monthly
+1684;Next Day Air;Monthly
+1685;Standard;Annually
+1686;2-Day Shipping;Annually
+1687;Store Pickup;Weekly
+1688;Next Day Air;Quarterly
+1689;2-Day Shipping;Monthly
+1690;Standard;Quarterly
+1691;Next Day Air;Monthly
+1692;Next Day Air;Weekly
+1693;Express;Fortnightly
+1694;Express;Fortnightly
+1695;Express;Monthly
+1696;Standard;Fortnightly
+1697;Next Day Air;Bi-Weekly
+1698;Next Day Air;Monthly
+1699;Next Day Air;Fortnightly
+1700;Next Day Air;Every 3 Months
+1701;Store Pickup;Fortnightly
+1702;2-Day Shipping;Quarterly
+1703;Express;Annually
+1704;2-Day Shipping;Fortnightly
+1705;Standard;Fortnightly
+1706;Store Pickup;Every 3 Months
+1707;Express;Fortnightly
+1708;Standard;Monthly
+1709;Express;Fortnightly
+1710;Store Pickup;Every 3 Months
+1711;Next Day Air;Annually
+1712;Free Shipping;Bi-Weekly
+1713;Free Shipping;Quarterly
+1714;2-Day Shipping;Monthly
+1715;Next Day Air;Annually
+1716;2-Day Shipping;Every 3 Months
+1717;2-Day Shipping;Monthly
+1718;Standard;Fortnightly
+1719;Express;Bi-Weekly
+1720;Store Pickup;Weekly
+1721;Next Day Air;Annually
+1722;Free Shipping;Bi-Weekly
+1723;Store Pickup;Weekly
+1724;Store Pickup;Annually
+1725;Free Shipping;Quarterly
+1726;Express;Fortnightly
+1727;2-Day Shipping;Annually
+1728;2-Day Shipping;Bi-Weekly
+1729;Express;Every 3 Months
+1730;Store Pickup;Fortnightly
+1731;Free Shipping;Annually
+1732;Free Shipping;Every 3 Months
+1733;2-Day Shipping;Every 3 Months
+1734;Standard;Weekly
+1735;Next Day Air;Weekly
+1736;Express;Bi-Weekly
+1737;2-Day Shipping;Quarterly
+1738;2-Day Shipping;Every 3 Months
+1739;Free Shipping;Annually
+1740;Standard;Every 3 Months
+1741;Next Day Air;Quarterly
+1742;Express;Weekly
+1743;Next Day Air;Annually
+1744;Express;Fortnightly
+1745;Next Day Air;Bi-Weekly
+1746;2-Day Shipping;Fortnightly
+1747;Next Day Air;Every 3 Months
+1748;Store Pickup;Monthly
+1749;Next Day Air;Quarterly
+1750;Store Pickup;Quarterly
+1751;Store Pickup;Every 3 Months
+1752;Standard;Fortnightly
+1753;Store Pickup;Annually
+1754;2-Day Shipping;Bi-Weekly
+1755;Free Shipping;Quarterly
+1756;2-Day Shipping;Annually
+1757;Standard;Fortnightly
+1758;2-Day Shipping;Weekly
+1759;Store Pickup;Every 3 Months
+1760;Express;Fortnightly
+1761;Next Day Air;Bi-Weekly
+1762;Express;Quarterly
+1763;2-Day Shipping;Quarterly
+1764;Standard;Monthly
+1765;2-Day Shipping;Quarterly
+1766;Next Day Air;Monthly
+1767;Standard;Bi-Weekly
+1768;2-Day Shipping;Fortnightly
+1769;Standard;Weekly
+1770;Store Pickup;Bi-Weekly
+1771;Free Shipping;Every 3 Months
+1772;Express;Bi-Weekly
+1773;2-Day Shipping;Monthly
+1774;Free Shipping;Monthly
+1775;Standard;Fortnightly
+1776;Free Shipping;Fortnightly
+1777;Free Shipping;Quarterly
+1778;Standard;Quarterly
+1779;Standard;Weekly
+1780;Standard;Quarterly
+1781;2-Day Shipping;Quarterly
+1782;Standard;Bi-Weekly
+1783;2-Day Shipping;Quarterly
+1784;Standard;Fortnightly
+1785;Free Shipping;Monthly
+1786;Free Shipping;Weekly
+1787;Store Pickup;Quarterly
+1788;Next Day Air;Every 3 Months
+1789;Express;Bi-Weekly
+1790;2-Day Shipping;Monthly
+1791;Next Day Air;Weekly
+1792;Standard;Quarterly
+1793;Standard;Bi-Weekly
+1794;Free Shipping;Bi-Weekly
+1795;Express;Every 3 Months
+1796;Standard;Fortnightly
+1797;2-Day Shipping;Monthly
+1798;2-Day Shipping;Annually
+1799;Express;Annually
+1800;Store Pickup;Every 3 Months
+1801;Express;Weekly
+1802;Next Day Air;Fortnightly
+1803;Free Shipping;Every 3 Months
+1804;2-Day Shipping;Monthly
+1805;Express;Monthly
+1806;Free Shipping;Every 3 Months
+1807;Store Pickup;Bi-Weekly
+1808;Standard;Annually
+1809;Free Shipping;Bi-Weekly
+1810;Standard;Fortnightly
+1811;Store Pickup;Monthly
+1812;Standard;Annually
+1813;Express;Weekly
+1814;Standard;Monthly
+1815;2-Day Shipping;Fortnightly
+1816;Store Pickup;Quarterly
+1817;Express;Fortnightly
+1818;Standard;Every 3 Months
+1819;Express;Annually
+1820;Free Shipping;Fortnightly
+1821;Free Shipping;Every 3 Months
+1822;Free Shipping;Quarterly
+1823;Standard;Monthly
+1824;2-Day Shipping;Monthly
+1825;Store Pickup;Bi-Weekly
+1826;Store Pickup;Quarterly
+1827;Standard;Monthly
+1828;Free Shipping;Every 3 Months
+1829;Express;Weekly
+1830;Store Pickup;Bi-Weekly
+1831;Express;Weekly
+1832;Free Shipping;Monthly
+1833;2-Day Shipping;Fortnightly
+1834;Standard;Bi-Weekly
+1835;Free Shipping;Quarterly
+1836;2-Day Shipping;Weekly
+1837;Next Day Air;Weekly
+1838;Standard;Annually
+1839;2-Day Shipping;Every 3 Months
+1840;Standard;Fortnightly
+1841;Store Pickup;Fortnightly
+1842;Standard;Quarterly
+1843;2-Day Shipping;Fortnightly
+1844;Express;Annually
+1845;Next Day Air;Fortnightly
+1846;Store Pickup;Monthly
+1847;Standard;Monthly
+1848;Next Day Air;Monthly
+1849;Express;Monthly
+1850;Next Day Air;Bi-Weekly
+1851;2-Day Shipping;Fortnightly
+1852;Next Day Air;Quarterly
+1853;Free Shipping;Monthly
+1854;Express;Every 3 Months
+1855;Free Shipping;Annually
+1856;Free Shipping;Fortnightly
+1857;Store Pickup;Every 3 Months
+1858;Express;Annually
+1859;Next Day Air;Monthly
+1860;Standard;Bi-Weekly
+1861;Free Shipping;Annually
+1862;Express;Annually
+1863;Express;Bi-Weekly
+1864;Express;Fortnightly
+1865;Free Shipping;Quarterly
+1866;Free Shipping;Weekly
+1867;Standard;Monthly
+1868;Store Pickup;Every 3 Months
+1869;Store Pickup;Fortnightly
+1870;Next Day Air;Every 3 Months
+1871;Standard;Quarterly
+1872;Free Shipping;Annually
+1873;Next Day Air;Annually
+1874;Next Day Air;Every 3 Months
+1875;Free Shipping;Weekly
+1876;Standard;Every 3 Months
+1877;Free Shipping;Weekly
+1878;Next Day Air;Annually
+1879;2-Day Shipping;Every 3 Months
+1880;Express;Monthly
+1881;2-Day Shipping;Annually
+1882;Store Pickup;Weekly
+1883;Standard;Weekly
+1884;Store Pickup;Weekly
+1885;Standard;Bi-Weekly
+1886;Free Shipping;Monthly
+1887;Free Shipping;Quarterly
+1888;Standard;Monthly
+1889;2-Day Shipping;Every 3 Months
+1890;Standard;Every 3 Months
+1891;Standard;Annually
+1892;2-Day Shipping;Annually
+1893;Free Shipping;Weekly
+1894;Standard;Weekly
+1895;Free Shipping;Quarterly
+1896;2-Day Shipping;Every 3 Months
+1897;Store Pickup;Monthly
+1898;Free Shipping;Fortnightly
+1899;Store Pickup;Annually
+1900;Free Shipping;Annually
+1901;Store Pickup;Monthly
+1902;Express;Fortnightly
+1903;Store Pickup;Weekly
+1904;Store Pickup;Fortnightly
+1905;Free Shipping;Monthly
+1906;Express;Every 3 Months
+1907;Store Pickup;Bi-Weekly
+1908;Free Shipping;Weekly
+1909;Store Pickup;Annually
+1910;Next Day Air;Weekly
+1911;Express;Annually
+1912;Store Pickup;Bi-Weekly
+1913;Free Shipping;Annually
+1914;Store Pickup;Fortnightly
+1915;Express;Annually
+1916;Store Pickup;Annually
+1917;Store Pickup;Bi-Weekly
+1918;Store Pickup;Fortnightly
+1919;2-Day Shipping;Fortnightly
+1920;Next Day Air;Annually
+1921;Express;Bi-Weekly
+1922;Store Pickup;Annually
+1923;Free Shipping;Every 3 Months
+1924;Free Shipping;Quarterly
+1925;2-Day Shipping;Bi-Weekly
+1926;Next Day Air;Monthly
+1927;Next Day Air;Monthly
+1928;2-Day Shipping;Weekly
+1929;2-Day Shipping;Weekly
+1930;Standard;Fortnightly
+1931;Standard;Monthly
+1932;Express;Bi-Weekly
+1933;Free Shipping;Fortnightly
+1934;2-Day Shipping;Every 3 Months
+1935;Store Pickup;Fortnightly
+1936;Standard;Weekly
+1937;Standard;Fortnightly
+1938;Store Pickup;Monthly
+1939;Express;Annually
+1940;Store Pickup;Monthly
+1941;Standard;Weekly
+1942;Next Day Air;Fortnightly
+1943;2-Day Shipping;Monthly
+1944;Standard;Bi-Weekly
+1945;Store Pickup;Weekly
+1946;Standard;Monthly
+1947;Store Pickup;Every 3 Months
+1948;Next Day Air;Quarterly
+1949;Free Shipping;Annually
+1950;Free Shipping;Bi-Weekly
+1951;Express;Monthly
+1952;Store Pickup;Fortnightly
+1953;Standard;Annually
+1954;Next Day Air;Annually
+1955;2-Day Shipping;Every 3 Months
+1956;Standard;Annually
+1957;Express;Bi-Weekly
+1958;Standard;Monthly
+1959;Store Pickup;Weekly
+1960;Free Shipping;Fortnightly
+1961;Standard;Fortnightly
+1962;2-Day Shipping;Monthly
+1963;Standard;Quarterly
+1964;Next Day Air;Annually
+1965;2-Day Shipping;Annually
+1966;Next Day Air;Fortnightly
+1967;Free Shipping;Weekly
+1968;Next Day Air;Bi-Weekly
+1969;2-Day Shipping;Quarterly
+1970;Free Shipping;Bi-Weekly
+1971;Standard;Annually
+1972;Free Shipping;Weekly
+1973;Standard;Monthly
+1974;Next Day Air;Fortnightly
+1975;Next Day Air;Every 3 Months
+1976;Store Pickup;Bi-Weekly
+1977;Store Pickup;Monthly
+1978;Express;Bi-Weekly
+1979;2-Day Shipping;Bi-Weekly
+1980;Next Day Air;Annually
+1981;Next Day Air;Annually
+1982;2-Day Shipping;Quarterly
+1983;Free Shipping;Every 3 Months
+1984;Standard;Weekly
+1985;Store Pickup;Every 3 Months
+1986;Free Shipping;Every 3 Months
+1987;Free Shipping;Fortnightly
+1988;Express;Bi-Weekly
+1989;Next Day Air;Every 3 Months
+1990;Express;Weekly
+1991;Express;Weekly
+1992;Next Day Air;Every 3 Months
+1993;2-Day Shipping;Monthly
+1994;Express;Monthly
+1995;Next Day Air;Bi-Weekly
+1996;Free Shipping;Monthly
+1997;Free Shipping;Quarterly
+1998;Store Pickup;Bi-Weekly
+1999;Standard;Quarterly
+2000;Standard;Annually
+2001;Next Day Air;Bi-Weekly
+2002;Express;Quarterly
+2003;Free Shipping;Quarterly
+2004;Free Shipping;Fortnightly
+2005;Store Pickup;Quarterly
+2006;Standard;Fortnightly
+2007;Store Pickup;Bi-Weekly
+2008;Next Day Air;Every 3 Months
+2009;Express;Monthly
+2010;Express;Annually
+2011;2-Day Shipping;Weekly
+2012;Store Pickup;Monthly
+2013;2-Day Shipping;Annually
+2014;Express;Fortnightly
+2015;Store Pickup;Monthly
+2016;Standard;Weekly
+2017;Free Shipping;Fortnightly
+2018;Standard;Quarterly
+2019;Free Shipping;Bi-Weekly
+2020;Free Shipping;Weekly
+2021;2-Day Shipping;Quarterly
+2022;2-Day Shipping;Quarterly
+2023;2-Day Shipping;Weekly
+2024;Express;Weekly
+2025;Next Day Air;Every 3 Months
+2026;Express;Every 3 Months
+2027;Store Pickup;Weekly
+2028;Store Pickup;Fortnightly
+2029;Store Pickup;Every 3 Months
+2030;Free Shipping;Annually
+2031;Store Pickup;Annually
+2032;2-Day Shipping;Bi-Weekly
+2033;2-Day Shipping;Monthly
+2034;2-Day Shipping;Monthly
+2035;Next Day Air;Bi-Weekly
+2036;Free Shipping;Every 3 Months
+2037;Next Day Air;Quarterly
+2038;Store Pickup;Weekly
+2039;2-Day Shipping;Every 3 Months
+2040;Express;Monthly
+2041;Free Shipping;Annually
+2042;Express;Monthly
+2043;2-Day Shipping;Quarterly
+2044;Standard;Quarterly
+2045;Standard;Weekly
+2046;Standard;Bi-Weekly
+2047;Free Shipping;Every 3 Months
+2048;Standard;Annually
+2049;Express;Monthly
+2050;Store Pickup;Annually
+2051;Next Day Air;Quarterly
+2052;Next Day Air;Annually
+2053;Next Day Air;Weekly
+2054;Standard;Bi-Weekly
+2055;Express;Weekly
+2056;Next Day Air;Weekly
+2057;Standard;Every 3 Months
+2058;Store Pickup;Annually
+2059;Next Day Air;Bi-Weekly
+2060;Express;Annually
+2061;Store Pickup;Every 3 Months
+2062;2-Day Shipping;Fortnightly
+2063;2-Day Shipping;Weekly
+2064;Standard;Monthly
+2065;2-Day Shipping;Every 3 Months
+2066;Next Day Air;Quarterly
+2067;Store Pickup;Fortnightly
+2068;2-Day Shipping;Every 3 Months
+2069;Express;Annually
+2070;Store Pickup;Every 3 Months
+2071;Standard;Bi-Weekly
+2072;Standard;Quarterly
+2073;2-Day Shipping;Weekly
+2074;2-Day Shipping;Monthly
+2075;Store Pickup;Annually
+2076;Free Shipping;Every 3 Months
+2077;Free Shipping;Fortnightly
+2078;Standard;Every 3 Months
+2079;Next Day Air;Bi-Weekly
+2080;2-Day Shipping;Quarterly
+2081;Next Day Air;Bi-Weekly
+2082;Standard;Every 3 Months
+2083;Next Day Air;Annually
+2084;Express;Quarterly
+2085;Next Day Air;Monthly
+2086;2-Day Shipping;Bi-Weekly
+2087;Store Pickup;Annually
+2088;Next Day Air;Every 3 Months
+2089;Free Shipping;Annually
+2090;Store Pickup;Every 3 Months
+2091;Standard;Quarterly
+2092;Store Pickup;Monthly
+2093;2-Day Shipping;Fortnightly
+2094;Free Shipping;Quarterly
+2095;Store Pickup;Every 3 Months
+2096;Express;Quarterly
+2097;Express;Quarterly
+2098;Free Shipping;Annually
+2099;Next Day Air;Bi-Weekly
+2100;2-Day Shipping;Quarterly
+2101;2-Day Shipping;Weekly
+2102;2-Day Shipping;Annually
+2103;Store Pickup;Fortnightly
+2104;Store Pickup;Bi-Weekly
+2105;Store Pickup;Fortnightly
+2106;Standard;Every 3 Months
+2107;Express;Fortnightly
+2108;Standard;Annually
+2109;Store Pickup;Quarterly
+2110;Next Day Air;Monthly
+2111;2-Day Shipping;Every 3 Months
+2112;Standard;Annually
+2113;2-Day Shipping;Bi-Weekly
+2114;Express;Every 3 Months
+2115;2-Day Shipping;Bi-Weekly
+2116;Express;Bi-Weekly
+2117;Free Shipping;Weekly
+2118;Standard;Fortnightly
+2119;Free Shipping;Quarterly
+2120;Free Shipping;Weekly
+2121;Express;Every 3 Months
+2122;Store Pickup;Weekly
+2123;Express;Bi-Weekly
+2124;2-Day Shipping;Weekly
+2125;Store Pickup;Quarterly
+2126;Store Pickup;Every 3 Months
+2127;Express;Annually
+2128;2-Day Shipping;Monthly
+2129;Free Shipping;Weekly
+2130;Standard;Every 3 Months
+2131;Store Pickup;Monthly
+2132;Standard;Quarterly
+2133;Free Shipping;Annually
+2134;Store Pickup;Fortnightly
+2135;Standard;Annually
+2136;Standard;Quarterly
+2137;2-Day Shipping;Monthly
+2138;Next Day Air;Every 3 Months
+2139;2-Day Shipping;Monthly
+2140;Free Shipping;Quarterly
+2141;Free Shipping;Quarterly
+2142;2-Day Shipping;Fortnightly
+2143;Store Pickup;Fortnightly
+2144;2-Day Shipping;Bi-Weekly
+2145;Standard;Weekly
+2146;Store Pickup;Weekly
+2147;Next Day Air;Bi-Weekly
+2148;Free Shipping;Weekly
+2149;Store Pickup;Bi-Weekly
+2150;2-Day Shipping;Annually
+2151;Free Shipping;Weekly
+2152;Express;Monthly
+2153;2-Day Shipping;Every 3 Months
+2154;Next Day Air;Annually
+2155;Next Day Air;Every 3 Months
+2156;Express;Weekly
+2157;Next Day Air;Monthly
+2158;Free Shipping;Monthly
+2159;2-Day Shipping;Every 3 Months
+2160;Next Day Air;Bi-Weekly
+2161;Standard;Monthly
+2162;Standard;Monthly
+2163;2-Day Shipping;Annually
+2164;Free Shipping;Weekly
+2165;2-Day Shipping;Every 3 Months
+2166;Free Shipping;Monthly
+2167;Standard;Fortnightly
+2168;Next Day Air;Every 3 Months
+2169;Free Shipping;Weekly
+2170;Free Shipping;Weekly
+2171;Free Shipping;Weekly
+2172;Store Pickup;Every 3 Months
+2173;Next Day Air;Weekly
+2174;Express;Every 3 Months
+2175;Store Pickup;Quarterly
+2176;Store Pickup;Every 3 Months
+2177;Next Day Air;Annually
+2178;Store Pickup;Fortnightly
+2179;2-Day Shipping;Bi-Weekly
+2180;2-Day Shipping;Annually
+2181;Store Pickup;Quarterly
+2182;Store Pickup;Monthly
+2183;Store Pickup;Quarterly
+2184;2-Day Shipping;Quarterly
+2185;Express;Fortnightly
+2186;Store Pickup;Fortnightly
+2187;Standard;Weekly
+2188;Express;Annually
+2189;2-Day Shipping;Monthly
+2190;2-Day Shipping;Quarterly
+2191;Store Pickup;Monthly
+2192;Next Day Air;Monthly
+2193;Standard;Bi-Weekly
+2194;Store Pickup;Monthly
+2195;Express;Quarterly
+2196;Next Day Air;Quarterly
+2197;Store Pickup;Annually
+2198;Store Pickup;Annually
+2199;Free Shipping;Every 3 Months
+2200;Next Day Air;Weekly
+2201;Next Day Air;Quarterly
+2202;Store Pickup;Quarterly
+2203;Express;Monthly
+2204;Express;Every 3 Months
+2205;Next Day Air;Weekly
+2206;Free Shipping;Monthly
+2207;2-Day Shipping;Weekly
+2208;2-Day Shipping;Bi-Weekly
+2209;Free Shipping;Bi-Weekly
+2210;Express;Weekly
+2211;Standard;Annually
+2212;Standard;Quarterly
+2213;Store Pickup;Annually
+2214;Store Pickup;Fortnightly
+2215;Standard;Weekly
+2216;Next Day Air;Monthly
+2217;Standard;Monthly
+2218;Free Shipping;Weekly
+2219;Express;Bi-Weekly
+2220;Standard;Monthly
+2221;Free Shipping;Quarterly
+2222;Express;Monthly
+2223;Express;Fortnightly
+2224;Next Day Air;Monthly
+2225;2-Day Shipping;Weekly
+2226;Store Pickup;Quarterly
+2227;Store Pickup;Quarterly
+2228;Free Shipping;Bi-Weekly
+2229;Free Shipping;Quarterly
+2230;Next Day Air;Bi-Weekly
+2231;Express;Every 3 Months
+2232;Free Shipping;Every 3 Months
+2233;Free Shipping;Bi-Weekly
+2234;Next Day Air;Every 3 Months
+2235;Next Day Air;Monthly
+2236;Express;Fortnightly
+2237;Next Day Air;Weekly
+2238;2-Day Shipping;Fortnightly
+2239;Store Pickup;Annually
+2240;Standard;Every 3 Months
+2241;Store Pickup;Quarterly
+2242;Standard;Weekly
+2243;Next Day Air;Monthly
+2244;2-Day Shipping;Bi-Weekly
+2245;2-Day Shipping;Annually
+2246;Express;Every 3 Months
+2247;Express;Annually
+2248;2-Day Shipping;Weekly
+2249;Next Day Air;Quarterly
+2250;2-Day Shipping;Every 3 Months
+2251;Next Day Air;Every 3 Months
+2252;Store Pickup;Fortnightly
+2253;Free Shipping;Quarterly
+2254;Standard;Annually
+2255;2-Day Shipping;Monthly
+2256;2-Day Shipping;Annually
+2257;Next Day Air;Annually
+2258;Free Shipping;Monthly
+2259;Store Pickup;Quarterly
+2260;Free Shipping;Bi-Weekly
+2261;Next Day Air;Annually
+2262;2-Day Shipping;Every 3 Months
+2263;2-Day Shipping;Fortnightly
+2264;Standard;Fortnightly
+2265;Next Day Air;Weekly
+2266;Free Shipping;Annually
+2267;Express;Every 3 Months
+2268;Express;Bi-Weekly
+2269;Next Day Air;Quarterly
+2270;Next Day Air;Quarterly
+2271;Store Pickup;Fortnightly
+2272;Standard;Quarterly
+2273;2-Day Shipping;Bi-Weekly
+2274;Free Shipping;Bi-Weekly
+2275;Next Day Air;Bi-Weekly
+2276;Free Shipping;Fortnightly
+2277;Standard;Monthly
+2278;Free Shipping;Quarterly
+2279;2-Day Shipping;Weekly
+2280;Store Pickup;Weekly
+2281;Express;Fortnightly
+2282;Express;Fortnightly
+2283;Next Day Air;Quarterly
+2284;Next Day Air;Monthly
+2285;2-Day Shipping;Weekly
+2286;Store Pickup;Annually
+2287;Store Pickup;Weekly
+2288;2-Day Shipping;Quarterly
+2289;Standard;Fortnightly
+2290;Standard;Monthly
+2291;2-Day Shipping;Bi-Weekly
+2292;Express;Weekly
+2293;Standard;Bi-Weekly
+2294;Next Day Air;Weekly
+2295;2-Day Shipping;Weekly
+2296;Free Shipping;Weekly
+2297;2-Day Shipping;Monthly
+2298;Free Shipping;Annually
+2299;Express;Every 3 Months
+2300;2-Day Shipping;Bi-Weekly
+2301;Express;Quarterly
+2302;Free Shipping;Bi-Weekly
+2303;Store Pickup;Weekly
+2304;Next Day Air;Quarterly
+2305;Next Day Air;Fortnightly
+2306;Next Day Air;Monthly
+2307;Standard;Quarterly
+2308;Express;Weekly
+2309;Express;Every 3 Months
+2310;Free Shipping;Monthly
+2311;Standard;Quarterly
+2312;Express;Monthly
+2313;Express;Weekly
+2314;Standard;Bi-Weekly
+2315;Standard;Monthly
+2316;Standard;Fortnightly
+2317;Standard;Quarterly
+2318;Free Shipping;Every 3 Months
+2319;Express;Weekly
+2320;Standard;Annually
+2321;Express;Bi-Weekly
+2322;Next Day Air;Weekly
+2323;Express;Annually
+2324;Free Shipping;Quarterly
+2325;Free Shipping;Annually
+2326;Standard;Monthly
+2327;Standard;Bi-Weekly
+2328;Free Shipping;Every 3 Months
+2329;Next Day Air;Quarterly
+2330;Next Day Air;Weekly
+2331;Express;Weekly
+2332;Free Shipping;Quarterly
+2333;Express;Every 3 Months
+2334;Express;Annually
+2335;2-Day Shipping;Monthly
+2336;Store Pickup;Quarterly
+2337;Standard;Fortnightly
+2338;2-Day Shipping;Weekly
+2339;Next Day Air;Fortnightly
+2340;Free Shipping;Fortnightly
+2341;Standard;Fortnightly
+2342;Next Day Air;Annually
+2343;Store Pickup;Bi-Weekly
+2344;Store Pickup;Quarterly
+2345;Standard;Monthly
+2346;Express;Bi-Weekly
+2347;Next Day Air;Bi-Weekly
+2348;2-Day Shipping;Monthly
+2349;Next Day Air;Fortnightly
+2350;Store Pickup;Annually
+2351;Store Pickup;Monthly
+2352;Express;Monthly
+2353;Free Shipping;Bi-Weekly
+2354;Free Shipping;Weekly
+2355;Express;Monthly
+2356;Next Day Air;Bi-Weekly
+2357;Express;Annually
+2358;Express;Weekly
+2359;Store Pickup;Weekly
+2360;Store Pickup;Fortnightly
+2361;2-Day Shipping;Fortnightly
+2362;Free Shipping;Bi-Weekly
+2363;Express;Quarterly
+2364;Standard;Weekly
+2365;2-Day Shipping;Fortnightly
+2366;Express;Monthly
+2367;Next Day Air;Monthly
+2368;Express;Every 3 Months
+2369;Standard;Bi-Weekly
+2370;Express;Every 3 Months
+2371;Express;Weekly
+2372;Next Day Air;Monthly
+2373;Standard;Bi-Weekly
+2374;Express;Bi-Weekly
+2375;Express;Weekly
+2376;Express;Annually
+2377;Express;Quarterly
+2378;Express;Weekly
+2379;Next Day Air;Every 3 Months
+2380;Standard;Fortnightly
+2381;Store Pickup;Quarterly
+2382;Free Shipping;Annually
+2383;Store Pickup;Weekly
+2384;Store Pickup;Bi-Weekly
+2385;Free Shipping;Fortnightly
+2386;Next Day Air;Monthly
+2387;Standard;Annually
+2388;Free Shipping;Annually
+2389;Store Pickup;Fortnightly
+2390;Express;Weekly
+2391;Next Day Air;Monthly
+2392;2-Day Shipping;Monthly
+2393;Store Pickup;Annually
+2394;2-Day Shipping;Annually
+2395;2-Day Shipping;Every 3 Months
+2396;Standard;Weekly
+2397;Store Pickup;Bi-Weekly
+2398;Store Pickup;Annually
+2399;Store Pickup;Monthly
+2400;Standard;Annually
+2401;Express;Every 3 Months
+2402;Standard;Bi-Weekly
+2403;Next Day Air;Quarterly
+2404;Next Day Air;Fortnightly
+2405;Free Shipping;Fortnightly
+2406;2-Day Shipping;Annually
+2407;Store Pickup;Every 3 Months
+2408;Store Pickup;Quarterly
+2409;Express;Quarterly
+2410;2-Day Shipping;Bi-Weekly
+2411;Express;Quarterly
+2412;Free Shipping;Weekly
+2413;Standard;Bi-Weekly
+2414;Express;Fortnightly
+2415;Express;Annually
+2416;2-Day Shipping;Bi-Weekly
+2417;Store Pickup;Bi-Weekly
+2418;Store Pickup;Bi-Weekly
+2419;Store Pickup;Annually
+2420;2-Day Shipping;Quarterly
+2421;Store Pickup;Bi-Weekly
+2422;Standard;Every 3 Months
+2423;Free Shipping;Bi-Weekly
+2424;Store Pickup;Quarterly
+2425;Store Pickup;Monthly
+2426;Free Shipping;Quarterly
+2427;Express;Every 3 Months
+2428;Free Shipping;Bi-Weekly
+2429;Store Pickup;Every 3 Months
+2430;Free Shipping;Monthly
+2431;Free Shipping;Annually
+2432;Express;Bi-Weekly
+2433;2-Day Shipping;Every 3 Months
+2434;Standard;Annually
+2435;Free Shipping;Monthly
+2436;Standard;Bi-Weekly
+2437;Standard;Weekly
+2438;Standard;Quarterly
+2439;Standard;Annually
+2440;Next Day Air;Weekly
+2441;Free Shipping;Monthly
+2442;2-Day Shipping;Quarterly
+2443;2-Day Shipping;Fortnightly
+2444;Store Pickup;Annually
+2445;Next Day Air;Bi-Weekly
+2446;Next Day Air;Fortnightly
+2447;2-Day Shipping;Monthly
+2448;Standard;Annually
+2449;2-Day Shipping;Fortnightly
+2450;Express;Every 3 Months
+2451;Store Pickup;Fortnightly
+2452;Free Shipping;Every 3 Months
+2453;Store Pickup;Bi-Weekly
+2454;Next Day Air;Weekly
+2455;Free Shipping;Bi-Weekly
+2456;Free Shipping;Quarterly
+2457;2-Day Shipping;Monthly
+2458;Next Day Air;Fortnightly
+2459;Store Pickup;Every 3 Months
+2460;Next Day Air;Annually
+2461;Express;Bi-Weekly
+2462;Store Pickup;Quarterly
+2463;Standard;Every 3 Months
+2464;Standard;Every 3 Months
+2465;Express;Bi-Weekly
+2466;Express;Fortnightly
+2467;Express;Annually
+2468;Free Shipping;Every 3 Months
+2469;Express;Fortnightly
+2470;2-Day Shipping;Quarterly
+2471;Free Shipping;Quarterly
+2472;Free Shipping;Bi-Weekly
+2473;2-Day Shipping;Quarterly
+2474;Standard;Fortnightly
+2475;Store Pickup;Annually
+2476;Store Pickup;Quarterly
+2477;Standard;Monthly
+2478;2-Day Shipping;Quarterly
+2479;2-Day Shipping;Monthly
+2480;2-Day Shipping;Monthly
+2481;Free Shipping;Fortnightly
+2482;Store Pickup;Quarterly
+2483;Express;Annually
+2484;Standard;Every 3 Months
+2485;Standard;Quarterly
+2486;Express;Bi-Weekly
+2487;Free Shipping;Weekly
+2488;Store Pickup;Fortnightly
+2489;Store Pickup;Every 3 Months
+2490;Free Shipping;Quarterly
+2491;2-Day Shipping;Fortnightly
+2492;Standard;Every 3 Months
+2493;Standard;Monthly
+2494;Free Shipping;Weekly
+2495;Express;Bi-Weekly
+2496;Next Day Air;Monthly
+2497;Store Pickup;Quarterly
+2498;Next Day Air;Bi-Weekly
+2499;Next Day Air;Every 3 Months
+2500;Standard;Bi-Weekly
+2501;Free Shipping;Quarterly
+2502;Next Day Air;Quarterly
+2503;Next Day Air;Every 3 Months
+2504;Express;Fortnightly
+2505;Store Pickup;Monthly
+2506;Store Pickup;Bi-Weekly
+2507;Free Shipping;Fortnightly
+2508;Express;Bi-Weekly
+2509;Store Pickup;Weekly
+2510;Next Day Air;Monthly
+2511;Next Day Air;Fortnightly
+2512;Express;Quarterly
+2513;Store Pickup;Every 3 Months
+2514;Store Pickup;Fortnightly
+2515;Store Pickup;Annually
+2516;2-Day Shipping;Annually
+2517;Next Day Air;Every 3 Months
+2518;Standard;Bi-Weekly
+2519;2-Day Shipping;Every 3 Months
+2520;Express;Every 3 Months
+2521;Free Shipping;Annually
+2522;2-Day Shipping;Quarterly
+2523;Free Shipping;Annually
+2524;2-Day Shipping;Bi-Weekly
+2525;Store Pickup;Annually
+2526;Next Day Air;Monthly
+2527;Store Pickup;Quarterly
+2528;Free Shipping;Every 3 Months
+2529;Express;Fortnightly
+2530;2-Day Shipping;Quarterly
+2531;Express;Fortnightly
+2532;Standard;Weekly
+2533;Express;Quarterly
+2534;2-Day Shipping;Bi-Weekly
+2535;2-Day Shipping;Every 3 Months
+2536;Express;Weekly
+2537;Express;Every 3 Months
+2538;Free Shipping;Monthly
+2539;Next Day Air;Quarterly
+2540;Next Day Air;Fortnightly
+2541;Store Pickup;Quarterly
+2542;Standard;Annually
+2543;Store Pickup;Fortnightly
+2544;Express;Every 3 Months
+2545;Free Shipping;Fortnightly
+2546;Next Day Air;Weekly
+2547;Standard;Quarterly
+2548;Free Shipping;Bi-Weekly
+2549;Express;Quarterly
+2550;Express;Monthly
+2551;Next Day Air;Quarterly
+2552;Free Shipping;Bi-Weekly
+2553;Store Pickup;Bi-Weekly
+2554;2-Day Shipping;Monthly
+2555;Store Pickup;Quarterly
+2556;Standard;Quarterly
+2557;Free Shipping;Monthly
+2558;Free Shipping;Every 3 Months
+2559;Standard;Weekly
+2560;Store Pickup;Monthly
+2561;Store Pickup;Annually
+2562;Store Pickup;Weekly
+2563;Store Pickup;Monthly
+2564;Store Pickup;Weekly
+2565;Free Shipping;Annually
+2566;Express;Annually
+2567;Next Day Air;Weekly
+2568;Free Shipping;Every 3 Months
+2569;Standard;Fortnightly
+2570;Express;Bi-Weekly
+2571;Next Day Air;Monthly
+2572;2-Day Shipping;Weekly
+2573;2-Day Shipping;Every 3 Months
+2574;Express;Every 3 Months
+2575;Free Shipping;Every 3 Months
+2576;Store Pickup;Every 3 Months
+2577;Standard;Annually
+2578;Next Day Air;Quarterly
+2579;2-Day Shipping;Every 3 Months
+2580;Free Shipping;Fortnightly
+2581;Next Day Air;Quarterly
+2582;Standard;Monthly
+2583;Express;Monthly
+2584;Store Pickup;Fortnightly
+2585;Store Pickup;Bi-Weekly
+2586;Standard;Fortnightly
+2587;Express;Annually
+2588;Next Day Air;Annually
+2589;Standard;Weekly
+2590;Express;Every 3 Months
+2591;Standard;Weekly
+2592;Standard;Annually
+2593;Free Shipping;Fortnightly
+2594;Next Day Air;Weekly
+2595;Standard;Weekly
+2596;Next Day Air;Bi-Weekly
+2597;Next Day Air;Bi-Weekly
+2598;Standard;Quarterly
+2599;Store Pickup;Weekly
+2600;Standard;Bi-Weekly
+2601;Express;Annually
+2602;2-Day Shipping;Fortnightly
+2603;Standard;Every 3 Months
+2604;Free Shipping;Every 3 Months
+2605;Standard;Weekly
+2606;Standard;Annually
+2607;2-Day Shipping;Fortnightly
+2608;Next Day Air;Every 3 Months
+2609;Free Shipping;Fortnightly
+2610;Store Pickup;Annually
+2611;Store Pickup;Every 3 Months
+2612;Store Pickup;Bi-Weekly
+2613;Express;Weekly
+2614;Standard;Weekly
+2615;Free Shipping;Annually
+2616;Standard;Quarterly
+2617;Next Day Air;Fortnightly
+2618;Store Pickup;Annually
+2619;Store Pickup;Every 3 Months
+2620;2-Day Shipping;Fortnightly
+2621;Free Shipping;Monthly
+2622;2-Day Shipping;Bi-Weekly
+2623;Free Shipping;Monthly
+2624;2-Day Shipping;Every 3 Months
+2625;Standard;Monthly
+2626;Express;Annually
+2627;Free Shipping;Monthly
+2628;Store Pickup;Quarterly
+2629;Store Pickup;Monthly
+2630;Next Day Air;Every 3 Months
+2631;Store Pickup;Annually
+2632;Standard;Quarterly
+2633;Next Day Air;Every 3 Months
+2634;Express;Every 3 Months
+2635;2-Day Shipping;Weekly
+2636;Express;Weekly
+2637;Next Day Air;Bi-Weekly
+2638;Standard;Fortnightly
+2639;Standard;Bi-Weekly
+2640;Free Shipping;Weekly
+2641;Free Shipping;Fortnightly
+2642;Next Day Air;Weekly
+2643;Standard;Quarterly
+2644;Express;Every 3 Months
+2645;2-Day Shipping;Fortnightly
+2646;Express;Quarterly
+2647;Standard;Monthly
+2648;Store Pickup;Every 3 Months
+2649;Free Shipping;Bi-Weekly
+2650;Next Day Air;Monthly
+2651;Store Pickup;Weekly
+2652;Free Shipping;Every 3 Months
+2653;Store Pickup;Fortnightly
+2654;Free Shipping;Bi-Weekly
+2655;2-Day Shipping;Weekly
+2656;2-Day Shipping;Every 3 Months
+2657;Free Shipping;Fortnightly
+2658;2-Day Shipping;Bi-Weekly
+2659;Standard;Fortnightly
+2660;Store Pickup;Every 3 Months
+2661;Free Shipping;Quarterly
+2662;Store Pickup;Every 3 Months
+2663;Standard;Bi-Weekly
+2664;Express;Annually
+2665;Express;Weekly
+2666;Free Shipping;Quarterly
+2667;2-Day Shipping;Monthly
+2668;Express;Monthly
+2669;Store Pickup;Every 3 Months
+2670;Next Day Air;Quarterly
+2671;Free Shipping;Fortnightly
+2672;Express;Annually
+2673;Standard;Fortnightly
+2674;Free Shipping;Annually
+2675;Next Day Air;Fortnightly
+2676;Standard;Bi-Weekly
+2677;Store Pickup;Quarterly
+2678;Next Day Air;Weekly
+2679;Free Shipping;Bi-Weekly
+2680;2-Day Shipping;Annually
+2681;2-Day Shipping;Monthly
+2682;Store Pickup;Fortnightly
+2683;Next Day Air;Fortnightly
+2684;Express;Annually
+2685;Express;Every 3 Months
+2686;2-Day Shipping;Quarterly
+2687;2-Day Shipping;Weekly
+2688;Store Pickup;Every 3 Months
+2689;2-Day Shipping;Monthly
+2690;Standard;Bi-Weekly
+2691;Express;Monthly
+2692;2-Day Shipping;Bi-Weekly
+2693;Express;Quarterly
+2694;Express;Quarterly
+2695;Store Pickup;Quarterly
+2696;2-Day Shipping;Monthly
+2697;Express;Quarterly
+2698;2-Day Shipping;Every 3 Months
+2699;Store Pickup;Annually
+2700;Store Pickup;Weekly
+2701;Express;Bi-Weekly
+2702;2-Day Shipping;Fortnightly
+2703;Express;Monthly
+2704;Next Day Air;Weekly
+2705;Standard;Annually
+2706;2-Day Shipping;Fortnightly
+2707;Standard;Fortnightly
+2708;Free Shipping;Quarterly
+2709;Free Shipping;Fortnightly
+2710;Store Pickup;Annually
+2711;Store Pickup;Bi-Weekly
+2712;Free Shipping;Monthly
+2713;Standard;Annually
+2714;Express;Fortnightly
+2715;Store Pickup;Fortnightly
+2716;Free Shipping;Fortnightly
+2717;Free Shipping;Weekly
+2718;2-Day Shipping;Bi-Weekly
+2719;Next Day Air;Fortnightly
+2720;2-Day Shipping;Every 3 Months
+2721;Next Day Air;Monthly
+2722;Express;Every 3 Months
+2723;Standard;Annually
+2724;Express;Bi-Weekly
+2725;Express;Weekly
+2726;Free Shipping;Weekly
+2727;Next Day Air;Weekly
+2728;2-Day Shipping;Every 3 Months
+2729;Store Pickup;Fortnightly
+2730;Free Shipping;Quarterly
+2731;Free Shipping;Every 3 Months
+2732;Standard;Fortnightly
+2733;2-Day Shipping;Weekly
+2734;Express;Fortnightly
+2735;Express;Bi-Weekly
+2736;Store Pickup;Weekly
+2737;Express;Quarterly
+2738;Free Shipping;Fortnightly
+2739;Free Shipping;Weekly
+2740;Next Day Air;Every 3 Months
+2741;Next Day Air;Monthly
+2742;Standard;Bi-Weekly
+2743;Free Shipping;Every 3 Months
+2744;Free Shipping;Weekly
+2745;Express;Annually
+2746;Next Day Air;Monthly
+2747;Free Shipping;Every 3 Months
+2748;Express;Every 3 Months
+2749;Next Day Air;Every 3 Months
+2750;2-Day Shipping;Annually
+2751;Next Day Air;Weekly
+2752;Free Shipping;Annually
+2753;Express;Annually
+2754;Store Pickup;Fortnightly
+2755;Store Pickup;Quarterly
+2756;2-Day Shipping;Bi-Weekly
+2757;Free Shipping;Annually
+2758;Express;Bi-Weekly
+2759;Express;Fortnightly
+2760;Standard;Monthly
+2761;Store Pickup;Bi-Weekly
+2762;Express;Quarterly
+2763;Next Day Air;Fortnightly
+2764;Express;Weekly
+2765;Free Shipping;Annually
+2766;2-Day Shipping;Every 3 Months
+2767;2-Day Shipping;Monthly
+2768;Store Pickup;Monthly
+2769;Next Day Air;Monthly
+2770;Free Shipping;Weekly
+2771;Store Pickup;Quarterly
+2772;2-Day Shipping;Monthly
+2773;Express;Bi-Weekly
+2774;Free Shipping;Every 3 Months
+2775;Store Pickup;Annually
+2776;Free Shipping;Monthly
+2777;Standard;Quarterly
+2778;Next Day Air;Monthly
+2779;Store Pickup;Fortnightly
+2780;Free Shipping;Bi-Weekly
+2781;Next Day Air;Quarterly
+2782;2-Day Shipping;Bi-Weekly
+2783;Standard;Bi-Weekly
+2784;Store Pickup;Every 3 Months
+2785;Next Day Air;Every 3 Months
+2786;Next Day Air;Weekly
+2787;2-Day Shipping;Every 3 Months
+2788;Express;Annually
+2789;Standard;Monthly
+2790;2-Day Shipping;Fortnightly
+2791;Next Day Air;Monthly
+2792;Standard;Bi-Weekly
+2793;2-Day Shipping;Weekly
+2794;Next Day Air;Fortnightly
+2795;Free Shipping;Quarterly
+2796;Free Shipping;Monthly
+2797;Store Pickup;Quarterly
+2798;Free Shipping;Quarterly
+2799;Next Day Air;Every 3 Months
+2800;Next Day Air;Every 3 Months
+2801;Next Day Air;Every 3 Months
+2802;2-Day Shipping;Bi-Weekly
+2803;Next Day Air;Every 3 Months
+2804;Store Pickup;Annually
+2805;2-Day Shipping;Monthly
+2806;Express;Monthly
+2807;Standard;Weekly
+2808;Express;Weekly
+2809;Free Shipping;Annually
+2810;Next Day Air;Annually
+2811;2-Day Shipping;Quarterly
+2812;Store Pickup;Weekly
+2813;Standard;Every 3 Months
+2814;Standard;Bi-Weekly
+2815;Store Pickup;Annually
+2816;Express;Quarterly
+2817;Free Shipping;Annually
+2818;Store Pickup;Every 3 Months
+2819;Store Pickup;Every 3 Months
+2820;Next Day Air;Bi-Weekly
+2821;Standard;Annually
+2822;2-Day Shipping;Weekly
+2823;2-Day Shipping;Monthly
+2824;Free Shipping;Every 3 Months
+2825;Express;Every 3 Months
+2826;2-Day Shipping;Bi-Weekly
+2827;Next Day Air;Annually
+2828;Next Day Air;Bi-Weekly
+2829;Next Day Air;Fortnightly
+2830;Express;Quarterly
+2831;Store Pickup;Fortnightly
+2832;Standard;Weekly
+2833;Standard;Weekly
+2834;Store Pickup;Fortnightly
+2835;Free Shipping;Weekly
+2836;Express;Bi-Weekly
+2837;Free Shipping;Quarterly
+2838;Express;Monthly
+2839;Standard;Monthly
+2840;Express;Every 3 Months
+2841;Store Pickup;Bi-Weekly
+2842;Store Pickup;Every 3 Months
+2843;Free Shipping;Quarterly
+2844;Express;Monthly
+2845;2-Day Shipping;Every 3 Months
+2846;Store Pickup;Every 3 Months
+2847;2-Day Shipping;Weekly
+2848;Standard;Weekly
+2849;Free Shipping;Annually
+2850;Store Pickup;Annually
+2851;Standard;Annually
+2852;2-Day Shipping;Every 3 Months
+2853;Express;Weekly
+2854;Standard;Fortnightly
+2855;Standard;Every 3 Months
+2856;Free Shipping;Quarterly
+2857;Standard;Quarterly
+2858;Next Day Air;Monthly
+2859;Free Shipping;Monthly
+2860;Store Pickup;Quarterly
+2861;Standard;Bi-Weekly
+2862;Free Shipping;Monthly
+2863;Store Pickup;Monthly
+2864;Store Pickup;Monthly
+2865;Free Shipping;Every 3 Months
+2866;Standard;Every 3 Months
+2867;Next Day Air;Monthly
+2868;Standard;Bi-Weekly
+2869;2-Day Shipping;Weekly
+2870;Store Pickup;Every 3 Months
+2871;Free Shipping;Quarterly
+2872;Standard;Fortnightly
+2873;2-Day Shipping;Fortnightly
+2874;Store Pickup;Quarterly
+2875;Express;Fortnightly
+2876;2-Day Shipping;Weekly
+2877;Store Pickup;Every 3 Months
+2878;Standard;Annually
+2879;Free Shipping;Bi-Weekly
+2880;2-Day Shipping;Weekly
+2881;Express;Annually
+2882;Express;Weekly
+2883;Store Pickup;Annually
+2884;Express;Every 3 Months
+2885;Free Shipping;Every 3 Months
+2886;Standard;Annually
+2887;Express;Annually
+2888;Free Shipping;Fortnightly
+2889;2-Day Shipping;Weekly
+2890;Express;Quarterly
+2891;2-Day Shipping;Quarterly
+2892;Free Shipping;Every 3 Months
+2893;Free Shipping;Fortnightly
+2894;Store Pickup;Monthly
+2895;Store Pickup;Fortnightly
+2896;Free Shipping;Every 3 Months
+2897;Next Day Air;Quarterly
+2898;Express;Bi-Weekly
+2899;Free Shipping;Fortnightly
+2900;Next Day Air;Monthly
+2901;Store Pickup;Weekly
+2902;Standard;Quarterly
+2903;Standard;Every 3 Months
+2904;Next Day Air;Bi-Weekly
+2905;Store Pickup;Bi-Weekly
+2906;Next Day Air;Quarterly
+2907;2-Day Shipping;Fortnightly
+2908;Express;Monthly
+2909;Next Day Air;Annually
+2910;Express;Every 3 Months
+2911;Store Pickup;Fortnightly
+2912;2-Day Shipping;Bi-Weekly
+2913;Standard;Fortnightly
+2914;Express;Weekly
+2915;Express;Bi-Weekly
+2916;2-Day Shipping;Fortnightly
+2917;Express;Weekly
+2918;Express;Quarterly
+2919;Standard;Every 3 Months
+2920;2-Day Shipping;Annually
+2921;Next Day Air;Monthly
+2922;Express;Every 3 Months
+2923;Free Shipping;Annually
+2924;Standard;Fortnightly
+2925;Standard;Fortnightly
+2926;Express;Quarterly
+2927;2-Day Shipping;Monthly
+2928;2-Day Shipping;Weekly
+2929;Free Shipping;Weekly
+2930;2-Day Shipping;Monthly
+2931;Next Day Air;Quarterly
+2932;Next Day Air;Annually
+2933;Express;Monthly
+2934;Next Day Air;Monthly
+2935;Standard;Bi-Weekly
+2936;Free Shipping;Fortnightly
+2937;Free Shipping;Bi-Weekly
+2938;Express;Annually
+2939;2-Day Shipping;Annually
+2940;Free Shipping;Monthly
+2941;2-Day Shipping;Fortnightly
+2942;Free Shipping;Annually
+2943;Store Pickup;Fortnightly
+2944;Next Day Air;Every 3 Months
+2945;Standard;Every 3 Months
+2946;Next Day Air;Quarterly
+2947;Express;Fortnightly
+2948;Express;Quarterly
+2949;Free Shipping;Every 3 Months
+2950;Standard;Monthly
+2951;Free Shipping;Weekly
+2952;2-Day Shipping;Monthly
+2953;Free Shipping;Fortnightly
+2954;Store Pickup;Fortnightly
+2955;Standard;Fortnightly
+2956;Standard;Annually
+2957;2-Day Shipping;Quarterly
+2958;Free Shipping;Every 3 Months
+2959;Free Shipping;Monthly
+2960;Free Shipping;Monthly
+2961;Next Day Air;Quarterly
+2962;Standard;Quarterly
+2963;Express;Monthly
+2964;Next Day Air;Bi-Weekly
+2965;2-Day Shipping;Quarterly
+2966;Free Shipping;Fortnightly
+2967;2-Day Shipping;Quarterly
+2968;Free Shipping;Annually
+2969;Next Day Air;Bi-Weekly
+2970;2-Day Shipping;Monthly
+2971;Next Day Air;Fortnightly
+2972;2-Day Shipping;Monthly
+2973;2-Day Shipping;Monthly
+2974;2-Day Shipping;Fortnightly
+2975;Standard;Bi-Weekly
+2976;Next Day Air;Bi-Weekly
+2977;Free Shipping;Annually
+2978;Free Shipping;Annually
+2979;Free Shipping;Annually
+2980;2-Day Shipping;Monthly
+2981;Next Day Air;Monthly
+2982;Next Day Air;Fortnightly
+2983;Free Shipping;Fortnightly
+2984;Express;Bi-Weekly
+2985;Free Shipping;Every 3 Months
+2986;Express;Quarterly
+2987;Next Day Air;Fortnightly
+2988;Express;Annually
+2989;Free Shipping;Every 3 Months
+2990;Store Pickup;Weekly
+2991;Free Shipping;Bi-Weekly
+2992;Standard;Monthly
+2993;Free Shipping;Monthly
+2994;Free Shipping;Annually
+2995;Next Day Air;Monthly
+2996;Next Day Air;Monthly
+2997;Standard;Weekly
+2998;Next Day Air;Monthly
+2999;Standard;Monthly
+3000;Next Day Air;Annually
+3001;Free Shipping;Monthly
+3002;Standard;Quarterly
+3003;Next Day Air;Annually
+3004;Standard;Weekly
+3005;Express;Annually
+3006;Free Shipping;Fortnightly
+3007;Express;Fortnightly
+3008;Free Shipping;Annually
+3009;Store Pickup;Bi-Weekly
+3010;Next Day Air;Fortnightly
+3011;Free Shipping;Quarterly
+3012;Express;Annually
+3013;Next Day Air;Fortnightly
+3014;Free Shipping;Weekly
+3015;2-Day Shipping;Fortnightly
+3016;Next Day Air;Fortnightly
+3017;Express;Weekly
+3018;Standard;Monthly
+3019;2-Day Shipping;Weekly
+3020;Store Pickup;Monthly
+3021;Standard;Fortnightly
+3022;Express;Weekly
+3023;Express;Bi-Weekly
+3024;Free Shipping;Bi-Weekly
+3025;Store Pickup;Weekly
+3026;Free Shipping;Quarterly
+3027;Store Pickup;Quarterly
+3028;Free Shipping;Monthly
+3029;2-Day Shipping;Every 3 Months
+3030;Store Pickup;Bi-Weekly
+3031;2-Day Shipping;Annually
+3032;Express;Annually
+3033;Free Shipping;Monthly
+3034;Express;Bi-Weekly
+3035;Free Shipping;Monthly
+3036;Express;Every 3 Months
+3037;Express;Weekly
+3038;2-Day Shipping;Quarterly
+3039;Next Day Air;Every 3 Months
+3040;Next Day Air;Every 3 Months
+3041;2-Day Shipping;Weekly
+3042;Store Pickup;Annually
+3043;Free Shipping;Annually
+3044;Standard;Annually
+3045;Free Shipping;Annually
+3046;Standard;Bi-Weekly
+3047;Next Day Air;Every 3 Months
+3048;2-Day Shipping;Annually
+3049;Express;Fortnightly
+3050;Express;Every 3 Months
+3051;Express;Monthly
+3052;Standard;Monthly
+3053;Store Pickup;Annually
+3054;2-Day Shipping;Fortnightly
+3055;2-Day Shipping;Every 3 Months
+3056;Express;Fortnightly
+3057;2-Day Shipping;Monthly
+3058;Store Pickup;Weekly
+3059;2-Day Shipping;Bi-Weekly
+3060;Express;Fortnightly
+3061;2-Day Shipping;Bi-Weekly
+3062;Free Shipping;Annually
+3063;Next Day Air;Monthly
+3064;Standard;Every 3 Months
+3065;2-Day Shipping;Quarterly
+3066;Store Pickup;Fortnightly
+3067;Express;Fortnightly
+3068;Free Shipping;Fortnightly
+3069;Standard;Monthly
+3070;2-Day Shipping;Every 3 Months
+3071;Free Shipping;Annually
+3072;2-Day Shipping;Monthly
+3073;Express;Quarterly
+3074;2-Day Shipping;Every 3 Months
+3075;Store Pickup;Weekly
+3076;Express;Quarterly
+3077;Next Day Air;Monthly
+3078;Standard;Annually
+3079;2-Day Shipping;Every 3 Months
+3080;Store Pickup;Quarterly
+3081;Free Shipping;Annually
+3082;Store Pickup;Bi-Weekly
+3083;2-Day Shipping;Every 3 Months
+3084;Standard;Monthly
+3085;2-Day Shipping;Every 3 Months
+3086;Express;Annually
+3087;2-Day Shipping;Monthly
+3088;Next Day Air;Monthly
+3089;Standard;Fortnightly
+3090;Free Shipping;Fortnightly
+3091;Store Pickup;Fortnightly
+3092;Free Shipping;Fortnightly
+3093;Free Shipping;Fortnightly
+3094;Store Pickup;Quarterly
+3095;Next Day Air;Bi-Weekly
+3096;Next Day Air;Monthly
+3097;Free Shipping;Bi-Weekly
+3098;Standard;Annually
+3099;Next Day Air;Bi-Weekly
+3100;Standard;Quarterly
+3101;Store Pickup;Weekly
+3102;Next Day Air;Bi-Weekly
+3103;Express;Annually
+3104;Next Day Air;Monthly
+3105;Free Shipping;Monthly
+3106;Store Pickup;Monthly
+3107;Express;Every 3 Months
+3108;2-Day Shipping;Monthly
+3109;Standard;Monthly
+3110;2-Day Shipping;Monthly
+3111;Free Shipping;Bi-Weekly
+3112;Standard;Weekly
+3113;Express;Bi-Weekly
+3114;Store Pickup;Quarterly
+3115;Store Pickup;Bi-Weekly
+3116;Next Day Air;Every 3 Months
+3117;Next Day Air;Quarterly
+3118;Standard;Fortnightly
+3119;2-Day Shipping;Monthly
+3120;Free Shipping;Annually
+3121;Standard;Weekly
+3122;Next Day Air;Fortnightly
+3123;Standard;Fortnightly
+3124;Free Shipping;Bi-Weekly
+3125;Next Day Air;Weekly
+3126;Standard;Fortnightly
+3127;Free Shipping;Fortnightly
+3128;Standard;Every 3 Months
+3129;Store Pickup;Quarterly
+3130;Free Shipping;Annually
+3131;Next Day Air;Every 3 Months
+3132;Express;Fortnightly
+3133;2-Day Shipping;Weekly
+3134;Standard;Fortnightly
+3135;Standard;Annually
+3136;Next Day Air;Quarterly
+3137;Store Pickup;Fortnightly
+3138;Free Shipping;Monthly
+3139;2-Day Shipping;Annually
+3140;Next Day Air;Every 3 Months
+3141;2-Day Shipping;Every 3 Months
+3142;Store Pickup;Bi-Weekly
+3143;Store Pickup;Bi-Weekly
+3144;Express;Weekly
+3145;Store Pickup;Annually
+3146;Next Day Air;Fortnightly
+3147;Free Shipping;Weekly
+3148;Free Shipping;Quarterly
+3149;Store Pickup;Annually
+3150;Free Shipping;Quarterly
+3151;Express;Every 3 Months
+3152;2-Day Shipping;Quarterly
+3153;2-Day Shipping;Annually
+3154;2-Day Shipping;Fortnightly
+3155;Standard;Every 3 Months
+3156;Free Shipping;Annually
+3157;Next Day Air;Every 3 Months
+3158;2-Day Shipping;Every 3 Months
+3159;Free Shipping;Every 3 Months
+3160;Store Pickup;Quarterly
+3161;Express;Weekly
+3162;2-Day Shipping;Fortnightly
+3163;Store Pickup;Every 3 Months
+3164;Next Day Air;Bi-Weekly
+3165;Store Pickup;Quarterly
+3166;Next Day Air;Quarterly
+3167;Free Shipping;Weekly
+3168;Next Day Air;Fortnightly
+3169;Store Pickup;Quarterly
+3170;Next Day Air;Bi-Weekly
+3171;Next Day Air;Monthly
+3172;Express;Bi-Weekly
+3173;Free Shipping;Weekly
+3174;Standard;Bi-Weekly
+3175;Free Shipping;Quarterly
+3176;Store Pickup;Weekly
+3177;Express;Bi-Weekly
+3178;2-Day Shipping;Annually
+3179;Next Day Air;Every 3 Months
+3180;Store Pickup;Annually
+3181;Standard;Annually
+3182;Free Shipping;Annually
+3183;Store Pickup;Every 3 Months
+3184;Next Day Air;Fortnightly
+3185;Standard;Monthly
+3186;Free Shipping;Annually
+3187;Express;Weekly
+3188;Store Pickup;Annually
+3189;Free Shipping;Quarterly
+3190;Next Day Air;Bi-Weekly
+3191;Free Shipping;Annually
+3192;Express;Quarterly
+3193;Free Shipping;Annually
+3194;Standard;Annually
+3195;Store Pickup;Annually
+3196;Express;Bi-Weekly
+3197;2-Day Shipping;Quarterly
+3198;Standard;Annually
+3199;Free Shipping;Bi-Weekly
+3200;Standard;Every 3 Months
+3201;Next Day Air;Quarterly
+3202;2-Day Shipping;Fortnightly
+3203;Next Day Air;Bi-Weekly
+3204;Express;Annually
+3205;Store Pickup;Quarterly
+3206;Next Day Air;Quarterly
+3207;Next Day Air;Weekly
+3208;Express;Quarterly
+3209;Express;Quarterly
+3210;Next Day Air;Fortnightly
+3211;Store Pickup;Weekly
+3212;2-Day Shipping;Bi-Weekly
+3213;Next Day Air;Fortnightly
+3214;Next Day Air;Monthly
+3215;Standard;Every 3 Months
+3216;2-Day Shipping;Quarterly
+3217;Store Pickup;Quarterly
+3218;Next Day Air;Weekly
+3219;Store Pickup;Annually
+3220;Next Day Air;Monthly
+3221;Free Shipping;Fortnightly
+3222;2-Day Shipping;Annually
+3223;Free Shipping;Every 3 Months
+3224;2-Day Shipping;Fortnightly
+3225;Next Day Air;Weekly
+3226;Express;Quarterly
+3227;2-Day Shipping;Fortnightly
+3228;Next Day Air;Annually
+3229;Standard;Bi-Weekly
+3230;Next Day Air;Annually
+3231;Standard;Annually
+3232;Free Shipping;Every 3 Months
+3233;Store Pickup;Weekly
+3234;Free Shipping;Fortnightly
+3235;2-Day Shipping;Every 3 Months
+3236;Free Shipping;Every 3 Months
+3237;Standard;Weekly
+3238;Standard;Bi-Weekly
+3239;Express;Bi-Weekly
+3240;Standard;Monthly
+3241;Free Shipping;Weekly
+3242;Next Day Air;Annually
+3243;Next Day Air;Annually
+3244;2-Day Shipping;Fortnightly
+3245;2-Day Shipping;Quarterly
+3246;Standard;Quarterly
+3247;2-Day Shipping;Monthly
+3248;Standard;Weekly
+3249;Next Day Air;Fortnightly
+3250;Free Shipping;Weekly
+3251;Store Pickup;Fortnightly
+3252;Free Shipping;Annually
+3253;Store Pickup;Bi-Weekly
+3254;Express;Annually
+3255;Next Day Air;Monthly
+3256;Next Day Air;Annually
+3257;Store Pickup;Annually
+3258;Express;Monthly
+3259;Next Day Air;Bi-Weekly
+3260;Free Shipping;Monthly
+3261;Next Day Air;Weekly
+3262;Standard;Annually
+3263;Express;Every 3 Months
+3264;Express;Fortnightly
+3265;Store Pickup;Every 3 Months
+3266;Standard;Every 3 Months
+3267;2-Day Shipping;Annually
+3268;Standard;Every 3 Months
+3269;2-Day Shipping;Bi-Weekly
+3270;Express;Quarterly
+3271;2-Day Shipping;Bi-Weekly
+3272;Next Day Air;Fortnightly
+3273;Store Pickup;Weekly
+3274;Standard;Quarterly
+3275;Next Day Air;Quarterly
+3276;Free Shipping;Fortnightly
+3277;Store Pickup;Bi-Weekly
+3278;Free Shipping;Weekly
+3279;2-Day Shipping;Quarterly
+3280;Next Day Air;Weekly
+3281;2-Day Shipping;Fortnightly
+3282;2-Day Shipping;Every 3 Months
+3283;Standard;Bi-Weekly
+3284;Standard;Bi-Weekly
+3285;Standard;Fortnightly
+3286;Store Pickup;Every 3 Months
+3287;Free Shipping;Every 3 Months
+3288;Express;Weekly
+3289;2-Day Shipping;Monthly
+3290;2-Day Shipping;Bi-Weekly
+3291;Free Shipping;Bi-Weekly
+3292;Express;Quarterly
+3293;Express;Bi-Weekly
+3294;Store Pickup;Monthly
+3295;Next Day Air;Annually
+3296;Free Shipping;Quarterly
+3297;Express;Annually
+3298;2-Day Shipping;Weekly
+3299;Next Day Air;Weekly
+3300;Express;Quarterly
+3301;Standard;Weekly
+3302;Next Day Air;Every 3 Months
+3303;Next Day Air;Every 3 Months
+3304;Free Shipping;Annually
+3305;Store Pickup;Every 3 Months
+3306;Free Shipping;Bi-Weekly
+3307;Store Pickup;Weekly
+3308;2-Day Shipping;Annually
+3309;Store Pickup;Fortnightly
+3310;Standard;Quarterly
+3311;Store Pickup;Annually
+3312;Store Pickup;Weekly
+3313;Store Pickup;Weekly
+3314;Express;Bi-Weekly
+3315;Next Day Air;Monthly
+3316;Express;Monthly
+3317;2-Day Shipping;Bi-Weekly
+3318;Express;Fortnightly
+3319;Standard;Monthly
+3320;Store Pickup;Monthly
+3321;2-Day Shipping;Bi-Weekly
+3322;Free Shipping;Monthly
+3323;Free Shipping;Fortnightly
+3324;Standard;Fortnightly
+3325;Standard;Annually
+3326;Next Day Air;Every 3 Months
+3327;Next Day Air;Every 3 Months
+3328;Free Shipping;Monthly
+3329;Next Day Air;Weekly
+3330;Next Day Air;Annually
+3331;Standard;Weekly
+3332;Store Pickup;Weekly
+3333;Express;Bi-Weekly
+3334;Standard;Annually
+3335;Free Shipping;Every 3 Months
+3336;Express;Monthly
+3337;Free Shipping;Annually
+3338;Next Day Air;Bi-Weekly
+3339;Express;Annually
+3340;Next Day Air;Annually
+3341;2-Day Shipping;Every 3 Months
+3342;Free Shipping;Monthly
+3343;2-Day Shipping;Monthly
+3344;Next Day Air;Bi-Weekly
+3345;Store Pickup;Every 3 Months
+3346;2-Day Shipping;Monthly
+3347;Store Pickup;Monthly
+3348;Standard;Fortnightly
+3349;Free Shipping;Every 3 Months
+3350;2-Day Shipping;Every 3 Months
+3351;Express;Bi-Weekly
+3352;Store Pickup;Monthly
+3353;2-Day Shipping;Bi-Weekly
+3354;Standard;Quarterly
+3355;Store Pickup;Every 3 Months
+3356;Express;Monthly
+3357;Next Day Air;Weekly
+3358;Express;Every 3 Months
+3359;Store Pickup;Weekly
+3360;Free Shipping;Quarterly
+3361;Free Shipping;Every 3 Months
+3362;2-Day Shipping;Quarterly
+3363;Express;Quarterly
+3364;Store Pickup;Fortnightly
+3365;Free Shipping;Weekly
+3366;Express;Bi-Weekly
+3367;Next Day Air;Bi-Weekly
+3368;Next Day Air;Weekly
+3369;Free Shipping;Every 3 Months
+3370;Free Shipping;Every 3 Months
+3371;Free Shipping;Monthly
+3372;2-Day Shipping;Quarterly
+3373;Standard;Quarterly
+3374;Standard;Fortnightly
+3375;Standard;Quarterly
+3376;Store Pickup;Annually
+3377;Free Shipping;Bi-Weekly
+3378;Standard;Bi-Weekly
+3379;Express;Every 3 Months
+3380;Store Pickup;Fortnightly
+3381;Standard;Weekly
+3382;Standard;Monthly
+3383;Free Shipping;Monthly
+3384;Free Shipping;Annually
+3385;Next Day Air;Bi-Weekly
+3386;Store Pickup;Every 3 Months
+3387;2-Day Shipping;Weekly
+3388;Next Day Air;Annually
+3389;Free Shipping;Monthly
+3390;Standard;Weekly
+3391;Express;Every 3 Months
+3392;Standard;Annually
+3393;2-Day Shipping;Monthly
+3394;Store Pickup;Monthly
+3395;Next Day Air;Bi-Weekly
+3396;Standard;Annually
+3397;Next Day Air;Annually
+3398;Standard;Fortnightly
+3399;Free Shipping;Bi-Weekly
+3400;Express;Fortnightly
+3401;2-Day Shipping;Weekly
+3402;Store Pickup;Quarterly
+3403;Next Day Air;Fortnightly
+3404;Express;Monthly
+3405;Free Shipping;Quarterly
+3406;Free Shipping;Weekly
+3407;Next Day Air;Bi-Weekly
+3408;Next Day Air;Bi-Weekly
+3409;Express;Quarterly
+3410;Express;Weekly
+3411;Next Day Air;Bi-Weekly
+3412;Standard;Weekly
+3413;Store Pickup;Annually
+3414;Free Shipping;Monthly
+3415;Free Shipping;Monthly
+3416;Store Pickup;Every 3 Months
+3417;Next Day Air;Quarterly
+3418;Store Pickup;Monthly
+3419;Next Day Air;Quarterly
+3420;Free Shipping;Weekly
+3421;Free Shipping;Fortnightly
+3422;2-Day Shipping;Fortnightly
+3423;Free Shipping;Monthly
+3424;Free Shipping;Weekly
+3425;Store Pickup;Monthly
+3426;Next Day Air;Quarterly
+3427;Store Pickup;Bi-Weekly
+3428;Express;Every 3 Months
+3429;Standard;Quarterly
+3430;2-Day Shipping;Every 3 Months
+3431;Free Shipping;Annually
+3432;Express;Monthly
+3433;Express;Annually
+3434;Free Shipping;Quarterly
+3435;2-Day Shipping;Monthly
+3436;Free Shipping;Every 3 Months
+3437;Standard;Every 3 Months
+3438;Express;Bi-Weekly
+3439;2-Day Shipping;Annually
+3440;Free Shipping;Monthly
+3441;Free Shipping;Weekly
+3442;Free Shipping;Quarterly
+3443;Next Day Air;Weekly
+3444;2-Day Shipping;Weekly
+3445;2-Day Shipping;Monthly
+3446;Next Day Air;Weekly
+3447;2-Day Shipping;Every 3 Months
+3448;Next Day Air;Bi-Weekly
+3449;Store Pickup;Bi-Weekly
+3450;Next Day Air;Monthly
+3451;2-Day Shipping;Bi-Weekly
+3452;Next Day Air;Every 3 Months
+3453;2-Day Shipping;Annually
+3454;Next Day Air;Every 3 Months
+3455;Next Day Air;Bi-Weekly
+3456;Free Shipping;Every 3 Months
+3457;Standard;Annually
+3458;Free Shipping;Weekly
+3459;Express;Weekly
+3460;Standard;Fortnightly
+3461;Next Day Air;Every 3 Months
+3462;Express;Quarterly
+3463;Store Pickup;Monthly
+3464;Express;Monthly
+3465;Next Day Air;Quarterly
+3466;Store Pickup;Every 3 Months
+3467;2-Day Shipping;Weekly
+3468;Next Day Air;Bi-Weekly
+3469;2-Day Shipping;Quarterly
+3470;2-Day Shipping;Every 3 Months
+3471;Free Shipping;Fortnightly
+3472;Next Day Air;Fortnightly
+3473;Express;Monthly
+3474;Next Day Air;Quarterly
+3475;Free Shipping;Fortnightly
+3476;Express;Monthly
+3477;Free Shipping;Quarterly
+3478;Next Day Air;Fortnightly
+3479;Express;Fortnightly
+3480;Next Day Air;Fortnightly
+3481;Store Pickup;Weekly
+3482;Store Pickup;Bi-Weekly
+3483;Next Day Air;Annually
+3484;Next Day Air;Monthly
+3485;Express;Monthly
+3486;Store Pickup;Every 3 Months
+3487;Standard;Weekly
+3488;Standard;Every 3 Months
+3489;Express;Every 3 Months
+3490;Standard;Weekly
+3491;Store Pickup;Every 3 Months
+3492;Free Shipping;Fortnightly
+3493;Next Day Air;Weekly
+3494;Free Shipping;Monthly
+3495;Express;Every 3 Months
+3496;Standard;Fortnightly
+3497;Express;Weekly
+3498;2-Day Shipping;Fortnightly
+3499;Express;Fortnightly
+3500;Free Shipping;Weekly
+3501;Store Pickup;Bi-Weekly
+3502;Express;Weekly
+3503;Free Shipping;Weekly
+3504;2-Day Shipping;Every 3 Months
+3505;Store Pickup;Monthly
+3506;Free Shipping;Fortnightly
+3507;2-Day Shipping;Every 3 Months
+3508;Express;Weekly
+3509;Store Pickup;Monthly
+3510;Standard;Weekly
+3511;Store Pickup;Bi-Weekly
+3512;Standard;Fortnightly
+3513;2-Day Shipping;Fortnightly
+3514;Store Pickup;Every 3 Months
+3515;Store Pickup;Weekly
+3516;Free Shipping;Monthly
+3517;Express;Weekly
+3518;Express;Every 3 Months
+3519;Free Shipping;Annually
+3520;Next Day Air;Bi-Weekly
+3521;2-Day Shipping;Weekly
+3522;Standard;Monthly
+3523;Standard;Bi-Weekly
+3524;Express;Fortnightly
+3525;Next Day Air;Every 3 Months
+3526;Express;Annually
+3527;2-Day Shipping;Weekly
+3528;Free Shipping;Bi-Weekly
+3529;Standard;Weekly
+3530;Store Pickup;Quarterly
+3531;2-Day Shipping;Quarterly
+3532;Free Shipping;Weekly
+3533;Standard;Quarterly
+3534;Store Pickup;Every 3 Months
+3535;Standard;Every 3 Months
+3536;Store Pickup;Weekly
+3537;Standard;Fortnightly
+3538;Express;Monthly
+3539;Free Shipping;Every 3 Months
+3540;Next Day Air;Bi-Weekly
+3541;Standard;Annually
+3542;Express;Bi-Weekly
+3543;Express;Fortnightly
+3544;Express;Every 3 Months
+3545;Free Shipping;Weekly
+3546;Free Shipping;Annually
+3547;2-Day Shipping;Fortnightly
+3548;Store Pickup;Bi-Weekly
+3549;Next Day Air;Monthly
+3550;Express;Annually
+3551;Standard;Every 3 Months
+3552;Free Shipping;Quarterly
+3553;2-Day Shipping;Every 3 Months
+3554;Store Pickup;Monthly
+3555;Express;Bi-Weekly
+3556;Standard;Annually
+3557;Free Shipping;Weekly
+3558;2-Day Shipping;Fortnightly
+3559;Store Pickup;Quarterly
+3560;Express;Monthly
+3561;Express;Annually
+3562;Standard;Quarterly
+3563;Free Shipping;Annually
+3564;2-Day Shipping;Weekly
+3565;Store Pickup;Every 3 Months
+3566;Standard;Every 3 Months
+3567;Express;Weekly
+3568;Standard;Bi-Weekly
+3569;Next Day Air;Weekly
+3570;Free Shipping;Fortnightly
+3571;Express;Every 3 Months
+3572;Express;Every 3 Months
+3573;Store Pickup;Annually
+3574;Standard;Fortnightly
+3575;Express;Bi-Weekly
+3576;Free Shipping;Bi-Weekly
+3577;Store Pickup;Weekly
+3578;2-Day Shipping;Weekly
+3579;Store Pickup;Quarterly
+3580;Express;Monthly
+3581;2-Day Shipping;Weekly
+3582;Next Day Air;Monthly
+3583;Next Day Air;Weekly
+3584;Next Day Air;Weekly
+3585;Standard;Annually
+3586;Standard;Fortnightly
+3587;Next Day Air;Fortnightly
+3588;Express;Quarterly
+3589;Store Pickup;Weekly
+3590;Free Shipping;Quarterly
+3591;Store Pickup;Annually
+3592;Next Day Air;Quarterly
+3593;2-Day Shipping;Annually
+3594;Standard;Bi-Weekly
+3595;2-Day Shipping;Annually
+3596;Store Pickup;Every 3 Months
+3597;Standard;Every 3 Months
+3598;Store Pickup;Bi-Weekly
+3599;Standard;Annually
+3600;Next Day Air;Quarterly
+3601;Standard;Every 3 Months
+3602;Express;Bi-Weekly
+3603;Standard;Fortnightly
+3604;2-Day Shipping;Weekly
+3605;Next Day Air;Bi-Weekly
+3606;Next Day Air;Every 3 Months
+3607;Standard;Monthly
+3608;2-Day Shipping;Fortnightly
+3609;Standard;Fortnightly
+3610;Next Day Air;Annually
+3611;2-Day Shipping;Monthly
+3612;Next Day Air;Monthly
+3613;Next Day Air;Quarterly
+3614;Express;Every 3 Months
+3615;Next Day Air;Bi-Weekly
+3616;Free Shipping;Weekly
+3617;Free Shipping;Every 3 Months
+3618;Standard;Fortnightly
+3619;Express;Bi-Weekly
+3620;Standard;Annually
+3621;Store Pickup;Every 3 Months
+3622;Free Shipping;Fortnightly
+3623;2-Day Shipping;Every 3 Months
+3624;Standard;Every 3 Months
+3625;2-Day Shipping;Weekly
+3626;Express;Fortnightly
+3627;Store Pickup;Every 3 Months
+3628;Next Day Air;Quarterly
+3629;Standard;Quarterly
+3630;Store Pickup;Quarterly
+3631;Next Day Air;Monthly
+3632;Next Day Air;Weekly
+3633;Express;Fortnightly
+3634;2-Day Shipping;Bi-Weekly
+3635;Express;Annually
+3636;Next Day Air;Every 3 Months
+3637;Free Shipping;Every 3 Months
+3638;2-Day Shipping;Monthly
+3639;Store Pickup;Bi-Weekly
+3640;2-Day Shipping;Annually
+3641;Store Pickup;Weekly
+3642;Standard;Bi-Weekly
+3643;Standard;Every 3 Months
+3644;Next Day Air;Bi-Weekly
+3645;Free Shipping;Every 3 Months
+3646;Next Day Air;Quarterly
+3647;Next Day Air;Every 3 Months
+3648;Store Pickup;Quarterly
+3649;Next Day Air;Annually
+3650;Store Pickup;Monthly
+3651;Store Pickup;Fortnightly
+3652;Standard;Bi-Weekly
+3653;Express;Every 3 Months
+3654;Standard;Monthly
+3655;2-Day Shipping;Monthly
+3656;Standard;Fortnightly
+3657;Next Day Air;Weekly
+3658;2-Day Shipping;Every 3 Months
+3659;Next Day Air;Annually
+3660;Standard;Annually
+3661;Next Day Air;Quarterly
+3662;Free Shipping;Every 3 Months
+3663;Next Day Air;Bi-Weekly
+3664;Store Pickup;Quarterly
+3665;Next Day Air;Quarterly
+3666;Next Day Air;Bi-Weekly
+3667;Standard;Bi-Weekly
+3668;Next Day Air;Weekly
+3669;Next Day Air;Annually
+3670;Express;Quarterly
+3671;Free Shipping;Fortnightly
+3672;Free Shipping;Fortnightly
+3673;Store Pickup;Every 3 Months
+3674;Standard;Every 3 Months
+3675;Express;Weekly
+3676;Free Shipping;Monthly
+3677;2-Day Shipping;Monthly
+3678;Next Day Air;Weekly
+3679;2-Day Shipping;Annually
+3680;Free Shipping;Monthly
+3681;Store Pickup;Weekly
+3682;2-Day Shipping;Monthly
+3683;Store Pickup;Monthly
+3684;2-Day Shipping;Every 3 Months
+3685;Standard;Quarterly
+3686;Express;Bi-Weekly
+3687;Standard;Fortnightly
+3688;Free Shipping;Every 3 Months
+3689;2-Day Shipping;Every 3 Months
+3690;Standard;Quarterly
+3691;Next Day Air;Weekly
+3692;Free Shipping;Annually
+3693;Next Day Air;Annually
+3694;Free Shipping;Fortnightly
+3695;Store Pickup;Fortnightly
+3696;Standard;Annually
+3697;Next Day Air;Annually
+3698;2-Day Shipping;Quarterly
+3699;Free Shipping;Weekly
+3700;Next Day Air;Every 3 Months
+3701;Next Day Air;Fortnightly
+3702;2-Day Shipping;Annually
+3703;Store Pickup;Annually
+3704;2-Day Shipping;Every 3 Months
+3705;Next Day Air;Bi-Weekly
+3706;Express;Every 3 Months
+3707;Store Pickup;Weekly
+3708;Free Shipping;Annually
+3709;Next Day Air;Weekly
+3710;Free Shipping;Bi-Weekly
+3711;Express;Fortnightly
+3712;Express;Annually
+3713;Express;Quarterly
+3714;Free Shipping;Every 3 Months
+3715;Express;Fortnightly
+3716;Store Pickup;Quarterly
+3717;2-Day Shipping;Quarterly
+3718;Next Day Air;Bi-Weekly
+3719;Store Pickup;Monthly
+3720;2-Day Shipping;Monthly
+3721;Express;Every 3 Months
+3722;Express;Weekly
+3723;Express;Every 3 Months
+3724;Store Pickup;Monthly
+3725;Store Pickup;Monthly
+3726;Next Day Air;Fortnightly
+3727;Next Day Air;Weekly
+3728;2-Day Shipping;Monthly
+3729;Free Shipping;Annually
+3730;2-Day Shipping;Every 3 Months
+3731;Next Day Air;Fortnightly
+3732;Express;Fortnightly
+3733;Standard;Annually
+3734;2-Day Shipping;Monthly
+3735;2-Day Shipping;Every 3 Months
+3736;Next Day Air;Annually
+3737;Free Shipping;Every 3 Months
+3738;Next Day Air;Annually
+3739;2-Day Shipping;Weekly
+3740;Standard;Quarterly
+3741;Standard;Monthly
+3742;Standard;Weekly
+3743;Free Shipping;Monthly
+3744;Free Shipping;Every 3 Months
+3745;Standard;Bi-Weekly
+3746;Standard;Monthly
+3747;2-Day Shipping;Fortnightly
+3748;Next Day Air;Every 3 Months
+3749;2-Day Shipping;Monthly
+3750;Standard;Monthly
+3751;Express;Monthly
+3752;Next Day Air;Weekly
+3753;Express;Fortnightly
+3754;Standard;Weekly
+3755;Free Shipping;Monthly
+3756;2-Day Shipping;Every 3 Months
+3757;Free Shipping;Weekly
+3758;Free Shipping;Bi-Weekly
+3759;Next Day Air;Annually
+3760;Store Pickup;Monthly
+3761;Express;Weekly
+3762;Standard;Bi-Weekly
+3763;Next Day Air;Monthly
+3764;Free Shipping;Every 3 Months
+3765;Express;Annually
+3766;2-Day Shipping;Weekly
+3767;2-Day Shipping;Weekly
+3768;Standard;Bi-Weekly
+3769;Express;Monthly
+3770;Store Pickup;Quarterly
+3771;2-Day Shipping;Quarterly
+3772;Store Pickup;Annually
+3773;Store Pickup;Quarterly
+3774;Free Shipping;Monthly
+3775;Free Shipping;Every 3 Months
+3776;Free Shipping;Annually
+3777;Standard;Annually
+3778;Free Shipping;Annually
+3779;Standard;Annually
+3780;Standard;Fortnightly
+3781;Store Pickup;Monthly
+3782;Next Day Air;Every 3 Months
+3783;Next Day Air;Monthly
+3784;2-Day Shipping;Fortnightly
+3785;Store Pickup;Monthly
+3786;Next Day Air;Every 3 Months
+3787;Next Day Air;Annually
+3788;Express;Weekly
+3789;Standard;Fortnightly
+3790;Free Shipping;Bi-Weekly
+3791;Express;Fortnightly
+3792;Express;Quarterly
+3793;Express;Fortnightly
+3794;Free Shipping;Weekly
+3795;Next Day Air;Bi-Weekly
+3796;2-Day Shipping;Quarterly
+3797;Next Day Air;Annually
+3798;2-Day Shipping;Annually
+3799;Express;Annually
+3800;Next Day Air;Weekly
+3801;Next Day Air;Fortnightly
+3802;2-Day Shipping;Quarterly
+3803;Express;Every 3 Months
+3804;Standard;Monthly
+3805;Standard;Fortnightly
+3806;Free Shipping;Weekly
+3807;Store Pickup;Bi-Weekly
+3808;Next Day Air;Quarterly
+3809;Standard;Fortnightly
+3810;Free Shipping;Bi-Weekly
+3811;2-Day Shipping;Annually
+3812;Express;Annually
+3813;2-Day Shipping;Annually
+3814;Express;Annually
+3815;Next Day Air;Bi-Weekly
+3816;2-Day Shipping;Annually
+3817;Store Pickup;Monthly
+3818;Free Shipping;Bi-Weekly
+3819;Express;Monthly
+3820;Express;Fortnightly
+3821;2-Day Shipping;Annually
+3822;Standard;Monthly
+3823;2-Day Shipping;Annually
+3824;Free Shipping;Monthly
+3825;Next Day Air;Bi-Weekly
+3826;2-Day Shipping;Every 3 Months
+3827;Free Shipping;Weekly
+3828;2-Day Shipping;Quarterly
+3829;Free Shipping;Fortnightly
+3830;Next Day Air;Every 3 Months
+3831;Next Day Air;Annually
+3832;2-Day Shipping;Bi-Weekly
+3833;Next Day Air;Quarterly
+3834;Next Day Air;Annually
+3835;Express;Fortnightly
+3836;Next Day Air;Fortnightly
+3837;Standard;Quarterly
+3838;Express;Bi-Weekly
+3839;2-Day Shipping;Weekly
+3840;Next Day Air;Bi-Weekly
+3841;Next Day Air;Fortnightly
+3842;Free Shipping;Every 3 Months
+3843;Store Pickup;Bi-Weekly
+3844;Standard;Quarterly
+3845;Store Pickup;Bi-Weekly
+3846;Express;Bi-Weekly
+3847;Express;Weekly
+3848;Free Shipping;Bi-Weekly
+3849;Express;Every 3 Months
+3850;Standard;Quarterly
+3851;Store Pickup;Fortnightly
+3852;Next Day Air;Fortnightly
+3853;Express;Every 3 Months
+3854;Standard;Weekly
+3855;Next Day Air;Annually
+3856;Store Pickup;Monthly
+3857;2-Day Shipping;Bi-Weekly
+3858;Express;Weekly
+3859;Free Shipping;Monthly
+3860;2-Day Shipping;Quarterly
+3861;Express;Monthly
+3862;Free Shipping;Weekly
+3863;Express;Every 3 Months
+3864;Store Pickup;Monthly
+3865;2-Day Shipping;Every 3 Months
+3866;Express;Weekly
+3867;Free Shipping;Quarterly
+3868;Express;Monthly
+3869;Store Pickup;Weekly
+3870;Standard;Fortnightly
+3871;Store Pickup;Every 3 Months
+3872;Next Day Air;Monthly
+3873;Free Shipping;Annually
+3874;Free Shipping;Monthly
+3875;Express;Bi-Weekly
+3876;Next Day Air;Fortnightly
+3877;Express;Quarterly
+3878;Store Pickup;Quarterly
+3879;Store Pickup;Quarterly
+3880;Next Day Air;Monthly
+3881;Standard;Bi-Weekly
+3882;2-Day Shipping;Quarterly
+3883;Store Pickup;Quarterly
+3884;Standard;Annually
+3885;Store Pickup;Quarterly
+3886;Standard;Annually
+3887;Store Pickup;Every 3 Months
+3888;Standard;Annually
+3889;Free Shipping;Quarterly
+3890;Standard;Bi-Weekly
+3891;Free Shipping;Monthly
+3892;Next Day Air;Every 3 Months
+3893;Express;Every 3 Months
+3894;2-Day Shipping;Every 3 Months
+3895;Standard;Weekly
+3896;Standard;Quarterly
+3897;Free Shipping;Fortnightly
+3898;Free Shipping;Monthly
+3899;Express;Every 3 Months
+3900;Next Day Air;Bi-Weekly
